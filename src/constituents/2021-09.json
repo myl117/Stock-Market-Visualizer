@@ -1,0 +1,4561 @@
+{
+  "atDate": "2021-09-07",
+  "holdings": [
+    {
+      "cusip": "037833100",
+      "isin": "US0378331005",
+      "name": "Apple Inc.",
+      "percent": 6.421559,
+      "share": 166548500,
+      "symbol": "AAPL",
+      "value": 25862768509.8454
+    },
+    {
+      "cusip": "594918104",
+      "isin": "US5949181045",
+      "name": "Microsoft Corporation",
+      "percent": 5.906683,
+      "share": 79965630,
+      "symbol": "MSFT",
+      "value": 23789110259.6798
+    },
+    {
+      "cusip": "023135106",
+      "isin": "US0231351067",
+      "name": "Amazon.com Inc.",
+      "percent": 3.930305,
+      "share": 4551437,
+      "symbol": "AMZN",
+      "value": 15829266442.633001
+    },
+    {
+      "cusip": "30303M102",
+      "isin": "US30303M1027",
+      "name": "Facebook Inc. Class A",
+      "percent": 2.392441,
+      "share": 25439866,
+      "symbol": "FB",
+      "value": 9635533638.5546
+    },
+    {
+      "cusip": "02079K305",
+      "isin": "US02079K3059",
+      "name": "Alphabet Inc. Class A",
+      "percent": 2.267658,
+      "share": 3193607,
+      "symbol": "GOOGL",
+      "value": 9132971279.0148
+    },
+    {
+      "cusip": null,
+      "isin": null,
+      "name": "Alphabet Inc. Class C",
+      "percent": 2.164998,
+      "share": 3023077,
+      "symbol": "GOOG",
+      "value": 8719509094.0188
+    },
+    {
+      "cusip": "88160R101",
+      "isin": "US88160R1014",
+      "name": "Tesla Inc",
+      "percent": 1.516191,
+      "share": 8183642,
+      "symbol": "TSLA",
+      "value": 6106445000.304601
+    },
+    {
+      "cusip": "67066G104",
+      "isin": "US67066G1040",
+      "name": "NVIDIA Corporation",
+      "percent": 1.475666,
+      "share": 26462528,
+      "symbol": "NVDA",
+      "value": 5943230943.739599
+    },
+    {
+      "cusip": null,
+      "isin": null,
+      "name": "Berkshire Hathaway Inc. Class B",
+      "percent": 1.381269,
+      "share": 20126644,
+      "symbol": "BRK/B",
+      "value": 5563047913.5714
+    },
+    {
+      "cusip": "46625H100",
+      "isin": "US46625H1005",
+      "name": "JPMorgan Chase \u0026 Co.",
+      "percent": 1.259354,
+      "share": 32145396,
+      "symbol": "JPM",
+      "value": 5072036397.0724
+    },
+    {
+      "cusip": "478160104",
+      "isin": "US4781601046",
+      "name": "Johnson \u0026 Johnson",
+      "percent": 1.185752,
+      "share": 27964012,
+      "symbol": "JNJ",
+      "value": 4775605033.9312
+    },
+    {
+      "cusip": "91324P102",
+      "isin": "US91324P1021",
+      "name": "UnitedHealth Group Incorporated",
+      "percent": 1.038734,
+      "share": 10021117,
+      "symbol": "UNH",
+      "value": 4183491420.9004
+    },
+    {
+      "cusip": "92826C839",
+      "isin": "US92826C8394",
+      "name": "Visa Inc. Class A",
+      "percent": 1.000134,
+      "share": 17962750,
+      "symbol": "V",
+      "value": 4028030283.7404003
+    },
+    {
+      "cusip": "742718109",
+      "isin": "US7427181091",
+      "name": "Procter \u0026 Gamble Company",
+      "percent": 0.918067,
+      "share": 25997636,
+      "symbol": "PG",
+      "value": 3697506212.6701994
+    },
+    {
+      "cusip": "437076102",
+      "isin": "US4370761029",
+      "name": "Home Depot Inc.",
+      "percent": 0.913895,
+      "share": 11290357,
+      "symbol": "HD",
+      "value": 3680703521.887
+    },
+    {
+      "cusip": "70450Y103",
+      "isin": "US70450Y1038",
+      "name": "PayPal Holdings Inc",
+      "percent": 0.900192,
+      "share": 12474522,
+      "symbol": "PYPL",
+      "value": 3625514818.1952
+    },
+    {
+      "cusip": "254687106",
+      "isin": "US2546871060",
+      "name": "Walt Disney Company",
+      "percent": 0.875191,
+      "share": 19294116,
+      "symbol": "DIS",
+      "value": 3524823525.7046003
+    },
+    {
+      "cusip": "00724F101",
+      "isin": "US00724F1012",
+      "name": "Adobe Inc.",
+      "percent": 0.825963,
+      "share": 5075096,
+      "symbol": "ADBE",
+      "value": 3326558218.4478
+    },
+    {
+      "cusip": "060505104",
+      "isin": "US0605051046",
+      "name": "Bank of America Corp",
+      "percent": 0.814201,
+      "share": 80077930,
+      "symbol": "BAC",
+      "value": 3279186874.0106
+    },
+    {
+      "cusip": "57636Q104",
+      "isin": "US57636Q1040",
+      "name": "Mastercard Incorporated Class A",
+      "percent": 0.787812,
+      "share": 9287748,
+      "symbol": "MA",
+      "value": 3172905424.5671997
+    },
+    {
+      "cusip": "20030N101",
+      "isin": "US20030N1019",
+      "name": "Comcast Corporation Class A",
+      "percent": 0.72241,
+      "share": 48686440,
+      "symbol": "CMCSA",
+      "value": 2909499484.3459997
+    },
+    {
+      "cusip": "64110L106",
+      "isin": "US64110L1061",
+      "name": "Netflix Inc.",
+      "percent": 0.702961,
+      "share": 4708598,
+      "symbol": "NFLX",
+      "value": 2831168819.6665998
+    },
+    {
+      "cusip": "717081103",
+      "isin": "US7170811035",
+      "name": "Pfizer Inc.",
+      "percent": 0.683804,
+      "share": 59441732,
+      "symbol": "PFE",
+      "value": 2754014182.2423997
+    },
+    {
+      "cusip": "79466L302",
+      "isin": "US79466L3024",
+      "name": "salesforce.com inc.",
+      "percent": 0.669174,
+      "share": 10253945,
+      "symbol": "CRM",
+      "value": 2695091994.7644005
+    },
+    {
+      "cusip": "17275R102",
+      "isin": "US17275R1023",
+      "name": "Cisco Systems Inc.",
+      "percent": 0.648418,
+      "share": 44753710,
+      "symbol": "CSCO",
+      "value": 2611497399.8708
+    },
+    {
+      "cusip": "30231G102",
+      "isin": "US30231G1022",
+      "name": "Exxon Mobil Corporation",
+      "percent": 0.603445,
+      "share": 44955670,
+      "symbol": "XOM",
+      "value": 2430369065.117
+    },
+    {
+      "cusip": "002824100",
+      "isin": "US0028241000",
+      "name": "Abbott Laboratories",
+      "percent": 0.5961,
+      "share": 18868140,
+      "symbol": "ABT",
+      "value": 2400787146.66
+    },
+    {
+      "cusip": "92343V104",
+      "isin": "US92343V1044",
+      "name": "Verizon Communications Inc.",
+      "percent": 0.593042,
+      "share": 43963028,
+      "symbol": "VZ",
+      "value": 2388471080.4052
+    },
+    {
+      "cusip": "883556102",
+      "isin": "US8835561023",
+      "name": "Thermo Fisher Scientific Inc.",
+      "percent": 0.58443,
+      "share": 4172846,
+      "symbol": "TMO",
+      "value": 2353786331.358
+    },
+    {
+      "cusip": "G1151C101",
+      "isin": "IE00B4BNMY34",
+      "name": "Accenture Plc Class A",
+      "percent": 0.567218,
+      "share": 6750151,
+      "symbol": "ACN",
+      "value": 2284465163.1507998
+    },
+    {
+      "cusip": "458140100",
+      "isin": "US4581401001",
+      "name": "Intel Corporation",
+      "percent": 0.566078,
+      "share": 42879296,
+      "symbol": "INTC",
+      "value": 2279873823.8668
+    },
+    {
+      "cusip": "191216100",
+      "isin": "US1912161007",
+      "name": "Coca-Cola Company",
+      "percent": 0.564488,
+      "share": 41207364,
+      "symbol": "KO",
+      "value": 2273470113.8128
+    },
+    {
+      "cusip": "713448108",
+      "isin": "US7134481081",
+      "name": "PepsiCo Inc.",
+      "percent": 0.557883,
+      "share": 14671416,
+      "symbol": "PEP",
+      "value": 2246868538.3998003
+    },
+    {
+      "cusip": "235851102",
+      "isin": "US2358511028",
+      "name": "Danaher Corporation",
+      "percent": 0.547382,
+      "share": 6740907,
+      "symbol": "DHR",
+      "value": 2204575859.6092
+    },
+    {
+      "cusip": "654106103",
+      "isin": "US6541061031",
+      "name": "NIKE Inc. Class B",
+      "percent": 0.541839,
+      "share": 13538923,
+      "symbol": "NKE",
+      "value": 2182251479.2134
+    },
+    {
+      "cusip": "22160K105",
+      "isin": "US22160K1051",
+      "name": "Costco Wholesale Corporation",
+      "percent": 0.530806,
+      "share": 4693507,
+      "symbol": "COST",
+      "value": 2137816175.4236
+    },
+    {
+      "cusip": "532457108",
+      "isin": "US5324571083",
+      "name": "Eli Lilly and Company",
+      "percent": 0.529971,
+      "share": 8452682,
+      "symbol": "LLY",
+      "value": 2134453220.7725997
+    },
+    {
+      "cusip": "11135F101",
+      "isin": "US11135F1012",
+      "name": "Broadcom Inc.",
+      "percent": 0.528976,
+      "share": 4328921,
+      "symbol": "AVGO",
+      "value": 2130445867.6255999
+    },
+    {
+      "cusip": "931142103",
+      "isin": "US9311421039",
+      "name": "Walmart Inc.",
+      "percent": 0.528371,
+      "share": 14580302,
+      "symbol": "WMT",
+      "value": 2128009235.8126001
+    },
+    {
+      "cusip": "00206R102",
+      "isin": "US00206R1023",
+      "name": "AT\u0026T Inc.",
+      "percent": 0.511573,
+      "share": 75819650,
+      "symbol": "T",
+      "value": 2060355448.7138004
+    },
+    {
+      "cusip": "58933Y105",
+      "isin": "US58933Y1055",
+      "name": "Merck \u0026 Co. Inc.",
+      "percent": 0.502709,
+      "share": 26888020,
+      "symbol": "MRK",
+      "value": 2024655772.0353997
+    },
+    {
+      "cusip": "00287Y109",
+      "isin": "US00287Y1091",
+      "name": "AbbVie Inc.",
+      "percent": 0.502386,
+      "share": 18725466,
+      "symbol": "ABBV",
+      "value": 2023354892.5716
+    },
+    {
+      "cusip": "166764100",
+      "isin": "US1667641005",
+      "name": "Chevron Corporation",
+      "percent": 0.490184,
+      "share": 20523906,
+      "symbol": "CVX",
+      "value": 1974211452.2704
+    },
+    {
+      "cusip": "949746101",
+      "isin": "US9497461015",
+      "name": "Wells Fargo \u0026 Company",
+      "percent": 0.477979,
+      "share": 43837824,
+      "symbol": "WFC",
+      "value": 1925055929.4973998
+    },
+    {
+      "cusip": "G5960L103",
+      "isin": "IE00BTN1Y115",
+      "name": "Medtronic Plc",
+      "percent": 0.473314,
+      "share": 14293616,
+      "symbol": "MDT",
+      "value": 1906267685.8483999
+    },
+    {
+      "cusip": "580135101",
+      "isin": "US5801351017",
+      "name": "McDonald's Corporation",
+      "percent": 0.46053,
+      "share": 7923881,
+      "symbol": "MCD",
+      "value": 1854780246.018
+    },
+    {
+      "cusip": "882508104",
+      "isin": "US8825081040",
+      "name": "Texas Instruments Incorporated",
+      "percent": 0.4572,
+      "share": 9806868,
+      "symbol": "TXN",
+      "value": 1841368702.32
+    },
+    {
+      "cusip": "65339F101",
+      "isin": "US65339F1012",
+      "name": "NextEra Energy Inc.",
+      "percent": 0.434856,
+      "share": 20783328,
+      "symbol": "NEE",
+      "value": 1751378452.3536003
+    },
+    {
+      "cusip": "718172109",
+      "isin": "US7181721090",
+      "name": "Philip Morris International Inc.",
+      "percent": 0.431924,
+      "share": 16549969,
+      "symbol": "PM",
+      "value": 1739569849.9144
+    },
+    {
+      "cusip": "G5494J103",
+      "isin": "IE00BZ12WP82",
+      "name": "Linde plc",
+      "percent": 0.429067,
+      "share": 5524272,
+      "symbol": "LIN",
+      "value": 1728063309.2701998
+    },
+    {
+      "cusip": "747525103",
+      "isin": "US7475251036",
+      "name": "Qualcomm Inc",
+      "percent": 0.423705,
+      "share": 11978359,
+      "symbol": "QCOM",
+      "value": 1706467904.6729999
+    },
+    {
+      "cusip": "68389X105",
+      "isin": "US68389X1054",
+      "name": "Oracle Corporation",
+      "percent": 0.42114,
+      "share": 19290628,
+      "symbol": "ORCL",
+      "value": 1696137391.284
+    },
+    {
+      "cusip": "617446448",
+      "isin": "US6174464486",
+      "name": "Morgan Stanley",
+      "percent": 0.405198,
+      "share": 15806077,
+      "symbol": "MS",
+      "value": 1631931136.1388001
+    },
+    {
+      "cusip": "438516106",
+      "isin": "US4385161066",
+      "name": "Honeywell International Inc.",
+      "percent": 0.404541,
+      "share": 7374545,
+      "symbol": "HON",
+      "value": 1629285074.8146
+    },
+    {
+      "cusip": "461202103",
+      "isin": "US4612021034",
+      "name": "Intuit Inc.",
+      "percent": 0.400149,
+      "share": 2901423,
+      "symbol": "INTU",
+      "value": 1611596336.0994
+    },
+    {
+      "cusip": "172967424",
+      "isin": "US1729674242",
+      "name": "Citigroup Inc.",
+      "percent": 0.382514,
+      "share": 21949920,
+      "symbol": "C",
+      "value": 1540571539.3683999
+    },
+    {
+      "cusip": "110122108",
+      "isin": "US1101221083",
+      "name": "Bristol-Myers Squibb Company",
+      "percent": 0.380472,
+      "share": 23718284,
+      "symbol": "BMY",
+      "value": 1532347403.5631998
+    },
+    {
+      "cusip": "548661107",
+      "isin": "US5486611073",
+      "name": "Lowe's Companies Inc.",
+      "percent": 0.378956,
+      "share": 7506867,
+      "symbol": "LOW",
+      "value": 1526241727.8136
+    },
+    {
+      "cusip": "907818108",
+      "isin": "US9078181081",
+      "name": "Union Pacific Corporation",
+      "percent": 0.36974,
+      "share": 7054377,
+      "symbol": "UNP",
+      "value": 1489124374.444
+    },
+    {
+      "cusip": "911312106",
+      "isin": "US9113121068",
+      "name": "United Parcel Service Inc. Class B",
+      "percent": 0.369593,
+      "share": 7680422,
+      "symbol": "UPS",
+      "value": 1488532333.3258002
+    },
+    {
+      "cusip": "38141G104",
+      "isin": "US38141G1040",
+      "name": "Goldman Sachs Group Inc.",
+      "percent": 0.364759,
+      "share": 3612640,
+      "symbol": "GS",
+      "value": 1469063443.7654002
+    },
+    {
+      "cusip": "855244109",
+      "isin": "US8552441094",
+      "name": "Starbucks Corporation",
+      "percent": 0.355713,
+      "share": 12484474,
+      "symbol": "SBUX",
+      "value": 1432630763.7978
+    },
+    {
+      "cusip": "03027X100",
+      "isin": "US03027X1000",
+      "name": "American Tower Corporation",
+      "percent": 0.355496,
+      "share": 4828200,
+      "symbol": "AMT",
+      "value": 1431756798.3375998
+    },
+    {
+      "cusip": "60770K107",
+      "isin": "US60770K1079",
+      "name": "Moderna Inc.",
+      "percent": 0.347972,
+      "share": 3240495,
+      "symbol": "MRNA",
+      "value": 1401453959.0632
+    },
+    {
+      "cusip": "007903107",
+      "isin": "US0079031078",
+      "name": "Advanced Micro Devices Inc.",
+      "percent": 0.346535,
+      "share": 12902226,
+      "symbol": "AMD",
+      "value": 1395666455.071
+    },
+    {
+      "cusip": "09247X101",
+      "isin": "US09247X1019",
+      "name": "BlackRock Inc.",
+      "percent": 0.342406,
+      "share": 1504601,
+      "symbol": "BLK",
+      "value": 1379036946.3835998
+    },
+    {
+      "cusip": "81762P102",
+      "isin": "US81762P1021",
+      "name": "ServiceNow Inc.",
+      "percent": 0.341061,
+      "share": 2096586,
+      "symbol": "NOW",
+      "value": 1373619971.5266001
+    },
+    {
+      "cusip": "46120E602",
+      "isin": "US46120E6023",
+      "name": "Intuitive Surgical Inc.",
+      "percent": 0.333676,
+      "share": 1257718,
+      "symbol": "ISRG",
+      "value": 1343876953.4455998
+    },
+    {
+      "cusip": "031162100",
+      "isin": "US0311621009",
+      "name": "Amgen Inc.",
+      "percent": 0.332316,
+      "share": 6101449,
+      "symbol": "AMGN",
+      "value": 1338399566.2296
+    },
+    {
+      "cusip": "75513E101",
+      "isin": "US75513E1010",
+      "name": "Raytheon Technologies Corporation",
+      "percent": 0.328546,
+      "share": 16086405,
+      "symbol": "RTX",
+      "value": 1323215926.6676
+    },
+    {
+      "cusip": "038222105",
+      "isin": "US0382221051",
+      "name": "Applied Materials Inc.",
+      "percent": 0.326756,
+      "share": 9728918,
+      "symbol": "AMAT",
+      "value": 1316006718.4936
+    },
+    {
+      "cusip": "459200101",
+      "isin": "US4592001014",
+      "name": "International Business Machines Corporation",
+      "percent": 0.321824,
+      "share": 9473103,
+      "symbol": "IBM",
+      "value": 1296143134.8544
+    },
+    {
+      "cusip": "87612E106",
+      "isin": "US87612E1064",
+      "name": "Target Corporation",
+      "percent": 0.313762,
+      "share": 5253347,
+      "symbol": "TGT",
+      "value": 1263673505.6372
+    },
+    {
+      "cusip": "097023105",
+      "isin": "US0970231058",
+      "name": "Boeing Company",
+      "percent": 0.307734,
+      "share": 5837357,
+      "symbol": "BA",
+      "value": 1239395792.3004
+    },
+    {
+      "cusip": "244199105",
+      "isin": "US2441991054",
+      "name": "Deere \u0026 Company",
+      "percent": 0.302949,
+      "share": 3311853,
+      "symbol": "DE",
+      "value": 1220124249.7794
+    },
+    {
+      "cusip": "149123101",
+      "isin": "US1491231015",
+      "name": "Caterpillar Inc.",
+      "percent": 0.298056,
+      "share": 5816953,
+      "symbol": "CAT",
+      "value": 1200417738.2736
+    },
+    {
+      "cusip": "126650100",
+      "isin": "US1266501006",
+      "name": "CVS Health Corporation",
+      "percent": 0.297852,
+      "share": 13980557,
+      "symbol": "CVS",
+      "value": 1199596130.1912
+    },
+    {
+      "cusip": "369604301",
+      "isin": "US3696043013",
+      "name": "General Electric Company",
+      "percent": 0.295336,
+      "share": 11619816,
+      "symbol": "GE",
+      "value": 1189462963.8416
+    },
+    {
+      "cusip": "16119P108",
+      "isin": "US16119P1084",
+      "name": "Charter Communications Inc. Class A",
+      "percent": 0.288195,
+      "share": 1462473,
+      "symbol": "CHTR",
+      "value": 1160702653.467
+    },
+    {
+      "cusip": "808513105",
+      "isin": "US8085131055",
+      "name": "Charles Schwab Corporation",
+      "percent": 0.282493,
+      "share": 15926990,
+      "symbol": "SCHW",
+      "value": 1137737902.0658
+    },
+    {
+      "cusip": "78409V104",
+      "isin": "US78409V1044",
+      "name": "S\u0026P Global Inc.",
+      "percent": 0.28059,
+      "share": 2552578,
+      "symbol": "SPGI",
+      "value": 1130073587.454
+    },
+    {
+      "cusip": "88579Y101",
+      "isin": "US88579Y1010",
+      "name": "3M Company",
+      "percent": 0.280378,
+      "share": 6139798,
+      "symbol": "MMM",
+      "value": 1129219759.4468
+    },
+    {
+      "cusip": "025816109",
+      "isin": "US0258161092",
+      "name": "American Express Company",
+      "percent": 0.271526,
+      "share": 6908662,
+      "symbol": "AXP",
+      "value": 1093568412.6556
+    },
+    {
+      "cusip": "74340W103",
+      "isin": "US74340W1036",
+      "name": "Prologis Inc.",
+      "percent": 0.265615,
+      "share": 7841824,
+      "symbol": "PLD",
+      "value": 1069761915.719
+    },
+    {
+      "cusip": "98978V103",
+      "isin": "US98978V1035",
+      "name": "Zoetis Inc. Class A",
+      "percent": 0.257633,
+      "share": 5038221,
+      "symbol": "ZTS",
+      "value": 1037614485.7498
+    },
+    {
+      "cusip": "09857L108",
+      "isin": "US09857L1089",
+      "name": "Booking Holdings Inc.",
+      "percent": 0.249918,
+      "share": 434298,
+      "symbol": "BKNG",
+      "value": 1006542395.7708
+    },
+    {
+      "cusip": "02209S103",
+      "isin": "US02209S1033",
+      "name": "Altria Group Inc",
+      "percent": 0.24557,
+      "share": 19648888,
+      "symbol": "MO",
+      "value": 989030866.642
+    },
+    {
+      "cusip": "036752103",
+      "isin": "US0367521038",
+      "name": "Anthem Inc.",
+      "percent": 0.241363,
+      "share": 2596895,
+      "symbol": "ANTM",
+      "value": 972087213.6877999
+    },
+    {
+      "cusip": "863667101",
+      "isin": "US8636671013",
+      "name": "Stryker Corporation",
+      "percent": 0.238003,
+      "share": 3470838,
+      "symbol": "SYK",
+      "value": 958554845.2717999
+    },
+    {
+      "cusip": "375558103",
+      "isin": "US3755581036",
+      "name": "Gilead Sciences Inc.",
+      "percent": 0.233401,
+      "share": 13323696,
+      "symbol": "GILD",
+      "value": 940020333.5306
+    },
+    {
+      "cusip": "032654105",
+      "isin": "US0326541051",
+      "name": "Analog Devices Inc.",
+      "percent": 0.229135,
+      "share": 5703315,
+      "symbol": "ADI",
+      "value": 922839058.631
+    },
+    {
+      "cusip": "053015103",
+      "isin": "US0530151036",
+      "name": "Automatic Data Processing Inc.",
+      "percent": 0.224819,
+      "share": 4517817,
+      "symbol": "ADP",
+      "value": 905456409.2014
+    },
+    {
+      "cusip": "539830109",
+      "isin": "US5398301094",
+      "name": "Lockheed Martin Corporation",
+      "percent": 0.223187,
+      "share": 2597384,
+      "symbol": "LMT",
+      "value": 898883544.5422
+    },
+    {
+      "cusip": "512807108",
+      "isin": "US5128071082",
+      "name": "Lam Research Corporation",
+      "percent": 0.221192,
+      "share": 1515363,
+      "symbol": "LRCX",
+      "value": 890848700.7952
+    },
+    {
+      "cusip": "609207105",
+      "isin": "US6092071058",
+      "name": "Mondelez International Inc. Class A",
+      "percent": 0.220347,
+      "share": 14914456,
+      "symbol": "MDLZ",
+      "value": 887445471.2382
+    },
+    {
+      "cusip": "872540109",
+      "isin": "US8725401090",
+      "name": "TJX Companies Inc",
+      "percent": 0.220116,
+      "share": 12806377,
+      "symbol": "TJX",
+      "value": 886515120.9096
+    },
+    {
+      "cusip": "22822V101",
+      "isin": "US22822V1017",
+      "name": "Crown Castle International Corp",
+      "percent": 0.220084,
+      "share": 4573972,
+      "symbol": "CCI",
+      "value": 886386241.2104
+    },
+    {
+      "cusip": "595112103",
+      "isin": "US5951121038",
+      "name": "Micron Technology Inc.",
+      "percent": 0.215785,
+      "share": 11908279,
+      "symbol": "MU",
+      "value": 869072059.121
+    },
+    {
+      "cusip": "H1467J104",
+      "isin": "CH0044328745",
+      "name": "Chubb Limited",
+      "percent": 0.213519,
+      "share": 4773704,
+      "symbol": "CB",
+      "value": 859945765.4214
+    },
+    {
+      "cusip": "693475105",
+      "isin": "US6934751057",
+      "name": "PNC Financial Services Group Inc.",
+      "percent": 0.212688,
+      "share": 4496849,
+      "symbol": "PNC",
+      "value": 856598920.7328
+    },
+    {
+      "cusip": "571748102",
+      "isin": "US5717481023",
+      "name": "Marsh \u0026 McLennan Companies Inc.",
+      "percent": 0.209329,
+      "share": 5387872,
+      "symbol": "MMC",
+      "value": 843070579.8073999
+    },
+    {
+      "cusip": "26441C204",
+      "isin": "US26441C2044",
+      "name": "Duke Energy Corporation",
+      "percent": 0.206987,
+      "share": 8150878,
+      "symbol": "DUK",
+      "value": 833638196.8222001
+    },
+    {
+      "cusip": "29444U700",
+      "isin": "US29444U7000",
+      "name": "Equinix Inc.",
+      "percent": 0.206463,
+      "share": 951554,
+      "symbol": "EQIX",
+      "value": 831527791.7478
+    },
+    {
+      "cusip": "872590104",
+      "isin": "US8725901040",
+      "name": "T-Mobile US Inc.",
+      "percent": 0.205918,
+      "share": 6223166,
+      "symbol": "TMUS",
+      "value": 829332809.3708
+    },
+    {
+      "cusip": "518439104",
+      "isin": "US5184391044",
+      "name": "Estee Lauder Companies Inc. Class A",
+      "percent": 0.204546,
+      "share": 2462454,
+      "symbol": "EL",
+      "value": 823807092.2676
+    },
+    {
+      "cusip": "31620M106",
+      "isin": "US31620M1062",
+      "name": "Fidelity National Information Services Inc.",
+      "percent": 0.203765,
+      "share": 6586142,
+      "symbol": "FIS",
+      "value": 820661622.109
+    },
+    {
+      "cusip": "28176E108",
+      "isin": "US28176E1082",
+      "name": "Edwards Lifesciences Corporation",
+      "percent": 0.198117,
+      "share": 6599922,
+      "symbol": "EW",
+      "value": 797914355.2001998
+    },
+    {
+      "cusip": "902973304",
+      "isin": "US9029733048",
+      "name": "U.S. Bancorp",
+      "percent": 0.197765,
+      "share": 14395395,
+      "symbol": "USB",
+      "value": 796496678.509
+    },
+    {
+      "cusip": "20825C104",
+      "isin": "US20825C1045",
+      "name": "ConocoPhillips",
+      "percent": 0.197356,
+      "share": 14327145,
+      "symbol": "COP",
+      "value": 794849434.8536
+    },
+    {
+      "cusip": "89832Q109",
+      "isin": "US89832Q1094",
+      "name": "Truist Financial Corporation",
+      "percent": 0.196907,
+      "share": 14284346,
+      "symbol": "TFC",
+      "value": 793041091.5742
+    },
+    {
+      "cusip": "075887109",
+      "isin": "US0758871091",
+      "name": "Becton Dickinson and Company",
+      "percent": 0.195437,
+      "share": 3080453,
+      "symbol": "BDX",
+      "value": 787120680.3922
+    },
+    {
+      "cusip": "125523100",
+      "isin": "US1255231003",
+      "name": "Cigna Corporation",
+      "percent": 0.193972,
+      "share": 3644051,
+      "symbol": "CI",
+      "value": 781220406.6632
+    },
+    {
+      "cusip": "824348106",
+      "isin": "US8243481061",
+      "name": "Sherwin-Williams Company",
+      "percent": 0.18942,
+      "share": 2541872,
+      "symbol": "SHW",
+      "value": 762887269.452
+    },
+    {
+      "cusip": "126408103",
+      "isin": "US1264081035",
+      "name": "CSX Corporation",
+      "percent": 0.187074,
+      "share": 24127192,
+      "symbol": "CSX",
+      "value": 753438776.5044
+    },
+    {
+      "cusip": "14040H105",
+      "isin": "US14040H1059",
+      "name": "Capital One Financial Corporation",
+      "percent": 0.185134,
+      "share": 4794255,
+      "symbol": "COF",
+      "value": 745625444.7404
+    },
+    {
+      "cusip": "75886F107",
+      "isin": "US75886F1075",
+      "name": "Regeneron Pharmaceuticals Inc.",
+      "percent": 0.18297,
+      "share": 1111780,
+      "symbol": "REGN",
+      "value": 736909955.082
+    },
+    {
+      "cusip": "842587107",
+      "isin": "US8425871071",
+      "name": "Southern Company",
+      "percent": 0.18246,
+      "share": 11202518,
+      "symbol": "SO",
+      "value": 734855934.876
+    },
+    {
+      "cusip": "12572Q105",
+      "isin": "US12572Q1058",
+      "name": "CME Group Inc. Class A",
+      "percent": 0.181513,
+      "share": 3807025,
+      "symbol": "CME",
+      "value": 731041901.2778
+    },
+    {
+      "cusip": "337738108",
+      "isin": "US3377381088",
+      "name": "Fiserv Inc.",
+      "percent": 0.17873,
+      "share": 6315969,
+      "symbol": "FISV",
+      "value": 719833394.9380001
+    },
+    {
+      "cusip": "452327109",
+      "isin": "US4523271090",
+      "name": "Illumina Inc.",
+      "percent": 0.175855,
+      "share": 1548044,
+      "symbol": "ILMN",
+      "value": 708254359.463
+    },
+    {
+      "cusip": "45866F104",
+      "isin": "US45866F1049",
+      "name": "Intercontinental Exchange Inc.",
+      "percent": 0.174013,
+      "share": 5955617,
+      "symbol": "ICE",
+      "value": 700835721.7778
+    },
+    {
+      "cusip": "40412C101",
+      "isin": "US40412C1018",
+      "name": "HCA Healthcare Inc",
+      "percent": 0.17315,
+      "share": 2790873,
+      "symbol": "HCA",
+      "value": 697359997.39
+    },
+    {
+      "cusip": "194162103",
+      "isin": "US1941621039",
+      "name": "Colgate-Palmolive Company",
+      "percent": 0.1702,
+      "share": 8994432,
+      "symbol": "CL",
+      "value": 685478900.1199999
+    },
+    {
+      "cusip": "G29183103",
+      "isin": "IE00B8KQN827",
+      "name": "Eaton Corp. Plc",
+      "percent": 0.170146,
+      "share": 4223918,
+      "symbol": "ETN",
+      "value": 685261415.6276
+    },
+    {
+      "cusip": "G0403H108",
+      "isin": "IE00BLP1HW54",
+      "name": "Aon Plc Class A",
+      "percent": 0.16991,
+      "share": 2397715,
+      "symbol": "AON",
+      "value": 684310927.846
+    },
+    {
+      "cusip": "31428X106",
+      "isin": "US31428X1063",
+      "name": "FedEx Corporation",
+      "percent": 0.168192,
+      "share": 2592599,
+      "symbol": "FDX",
+      "value": 677391698.9952
+    },
+    {
+      "cusip": "101137107",
+      "isin": "US1011371077",
+      "name": "Boston Scientific Corporation",
+      "percent": 0.166884,
+      "share": 15037626,
+      "symbol": "BSX",
+      "value": 672123741.2904
+    },
+    {
+      "cusip": "452308109",
+      "isin": "US4523081093",
+      "name": "Illinois Tool Works Inc.",
+      "percent": 0.166542,
+      "share": 3054458,
+      "symbol": "ITW",
+      "value": 670746339.5051999
+    },
+    {
+      "cusip": "052769106",
+      "isin": "US0527691069",
+      "name": "Autodesk Inc.",
+      "percent": 0.165024,
+      "share": 2332979,
+      "symbol": "ADSK",
+      "value": 664632608.7744
+    },
+    {
+      "cusip": "37045V100",
+      "isin": "US37045V1008",
+      "name": "General Motors Company",
+      "percent": 0.16252,
+      "share": 13556330,
+      "symbol": "GM",
+      "value": 654547772.3119999
+    },
+    {
+      "cusip": "291011104",
+      "isin": "US2910111044",
+      "name": "Emerson Electric Co.",
+      "percent": 0.162401,
+      "share": 6366161,
+      "symbol": "EMR",
+      "value": 654068500.9305999
+    },
+    {
+      "cusip": "655844108",
+      "isin": "US6558441084",
+      "name": "Norfolk Southern Corporation",
+      "percent": 0.162231,
+      "share": 2656819,
+      "symbol": "NSC",
+      "value": 653383827.5286
+    },
+    {
+      "cusip": "25746U109",
+      "isin": "US25746U1097",
+      "name": "Dominion Energy Inc",
+      "percent": 0.160826,
+      "share": 8541276,
+      "symbol": "D",
+      "value": 647725203.2356
+    },
+    {
+      "cusip": "615369105",
+      "isin": "US6153691059",
+      "name": "Moody's Corporation",
+      "percent": 0.160403,
+      "share": 1707465,
+      "symbol": "MCO",
+      "value": 646021574.7118
+    },
+    {
+      "cusip": "00507V109",
+      "isin": "US00507V1098",
+      "name": "Activision Blizzard Inc.",
+      "percent": 0.158656,
+      "share": 8216663,
+      "symbol": "ATVI",
+      "value": 638985548.6335999
+    },
+    {
+      "cusip": "94106L109",
+      "isin": "US94106L1098",
+      "name": "Waste Management Inc.",
+      "percent": 0.155744,
+      "share": 4129742,
+      "symbol": "WM",
+      "value": 627257496.0064
+    },
+    {
+      "cusip": "009158106",
+      "isin": "US0091581068",
+      "name": "Air Products and Chemicals Inc.",
+      "percent": 0.154173,
+      "share": 2345714,
+      "symbol": "APD",
+      "value": 620930308.2738
+    },
+    {
+      "cusip": "N6596X109",
+      "isin": "NL0009538784",
+      "name": "NXP Semiconductors NV",
+      "percent": 0.153346,
+      "share": 2927654,
+      "symbol": "NXPI",
+      "value": 617599573.5476
+    },
+    {
+      "cusip": "45168D104",
+      "isin": "US45168D1046",
+      "name": "IDEXX Laboratories Inc.",
+      "percent": 0.151999,
+      "share": 906165,
+      "symbol": "IDXX",
+      "value": 612174543.7093999
+    },
+    {
+      "cusip": "278865100",
+      "isin": "US2788651006",
+      "name": "Ecolab Inc.",
+      "percent": 0.147478,
+      "share": 2638608,
+      "symbol": "ECL",
+      "value": 593966258.7068
+    },
+    {
+      "cusip": "743315103",
+      "isin": "US7433151039",
+      "name": "Progressive Corporation",
+      "percent": 0.144028,
+      "share": 6209543,
+      "symbol": "PGR",
+      "value": 580071416.1367999
+    },
+    {
+      "cusip": "55354G100",
+      "isin": "US55354G1004",
+      "name": "MSCI Inc. Class A",
+      "percent": 0.141342,
+      "share": 875845,
+      "symbol": "MSCI",
+      "value": 569253576.3852
+    },
+    {
+      "cusip": "00846U101",
+      "isin": "US00846U1016",
+      "name": "Agilent Technologies Inc.",
+      "percent": 0.140884,
+      "share": 3221571,
+      "symbol": "A",
+      "value": 567408985.6904
+    },
+    {
+      "cusip": "666807102",
+      "isin": "US6668071029",
+      "name": "Northrop Grumman Corporation",
+      "percent": 0.140371,
+      "share": 1589534,
+      "symbol": "NOC",
+      "value": 565342883.0126
+    },
+    {
+      "cusip": "169656105",
+      "isin": "US1696561059",
+      "name": "Chipotle Mexican Grill Inc.",
+      "percent": 0.139281,
+      "share": 298720,
+      "symbol": "CMG",
+      "value": 560952918.2585999
+    },
+    {
+      "cusip": "444859102",
+      "isin": "US4448591028",
+      "name": "Humana Inc.",
+      "percent": 0.139196,
+      "share": 1367323,
+      "symbol": "HUM",
+      "value": 560610581.5575999
+    },
+    {
+      "cusip": "252131107",
+      "isin": "US2521311074",
+      "name": "DexCom Inc.",
+      "percent": 0.138552,
+      "share": 1020667,
+      "symbol": "DXCM",
+      "value": 558016877.6112
+    },
+    {
+      "cusip": "35671D857",
+      "isin": "US35671D8570",
+      "name": "Freeport-McMoRan Inc.",
+      "percent": 0.138376,
+      "share": 15466046,
+      "symbol": "FCX",
+      "value": 557308039.2656
+    },
+    {
+      "cusip": "G51502105",
+      "isin": "IE00BY7QL619",
+      "name": "Johnson Controls International plc",
+      "percent": 0.137346,
+      "share": 7609519,
+      "symbol": "JCI",
+      "value": 553159723.9476
+    },
+    {
+      "cusip": "482480100",
+      "isin": "US4824801009",
+      "name": "KLA Corporation",
+      "percent": 0.136882,
+      "share": 1627438,
+      "symbol": "KLAC",
+      "value": 551290968.3091999
+    },
+    {
+      "cusip": "256677105",
+      "isin": "US2566771059",
+      "name": "Dollar General Corporation",
+      "percent": 0.136736,
+      "share": 2508250,
+      "symbol": "DG",
+      "value": 550702954.6816
+    },
+    {
+      "cusip": "90184L102",
+      "isin": "US90184L1026",
+      "name": "Twitter Inc.",
+      "percent": 0.135398,
+      "share": 8467839,
+      "symbol": "TWTR",
+      "value": 545314172.2588
+    },
+    {
+      "cusip": "016255101",
+      "isin": "US0162551016",
+      "name": "Align Technology Inc.",
+      "percent": 0.134592,
+      "share": 763696,
+      "symbol": "ALGN",
+      "value": 542068014.8352
+    },
+    {
+      "cusip": "871607107",
+      "isin": "US8716071076",
+      "name": "Synopsys Inc.",
+      "percent": 0.133811,
+      "share": 1616890,
+      "symbol": "SNPS",
+      "value": 538922544.6766
+    },
+    {
+      "cusip": "345370860",
+      "isin": "US3453708600",
+      "name": "Ford Motor Company",
+      "percent": 0.132143,
+      "share": 41468356,
+      "symbol": "F",
+      "value": 532204690.35580003
+    },
+    {
+      "cusip": "46266C105",
+      "isin": "US46266C1053",
+      "name": "IQVIA Holdings Inc",
+      "percent": 0.132086,
+      "share": 2029812,
+      "symbol": "IQV",
+      "value": 531975123.3916
+    },
+    {
+      "cusip": "776696106",
+      "isin": "US7766961061",
+      "name": "Roper Technologies Inc.",
+      "percent": 0.130641,
+      "share": 1113628,
+      "symbol": "ROP",
+      "value": 526155399.4746
+    },
+    {
+      "cusip": "92532F100",
+      "isin": "US92532F1003",
+      "name": "Vertex Pharmaceuticals Incorporated",
+      "percent": 0.129986,
+      "share": 2748420,
+      "symbol": "VRTX",
+      "value": 523517393.13159996
+    },
+    {
+      "cusip": "74460D109",
+      "isin": "US74460D1090",
+      "name": "Public Storage",
+      "percent": 0.129637,
+      "share": 1612586,
+      "symbol": "PSA",
+      "value": 522111798.91220003
+    },
+    {
+      "cusip": "09062X103",
+      "isin": "US09062X1037",
+      "name": "Biogen Inc.",
+      "percent": 0.128768,
+      "share": 1599128,
+      "symbol": "BIIB",
+      "value": 518611909.58079994
+    },
+    {
+      "cusip": "H84989104",
+      "isin": "CH0102993182",
+      "name": "TE Connectivity Ltd.",
+      "percent": 0.128453,
+      "share": 3510307,
+      "symbol": "TEL",
+      "value": 517343250.0418001
+    },
+    {
+      "cusip": "74144T108",
+      "isin": "US74144T1088",
+      "name": "T. Rowe Price Group",
+      "percent": 0.127445,
+      "share": 2408482,
+      "symbol": "TROW",
+      "value": 513283539.517
+    },
+    {
+      "cusip": "30161N101",
+      "isin": "US30161N1019",
+      "name": "Exelon Corporation",
+      "percent": 0.126212,
+      "share": 10359767,
+      "symbol": "EXC",
+      "value": 508317643.6071999
+    },
+    {
+      "cusip": "278642103",
+      "isin": "US2786421030",
+      "name": "eBay Inc.",
+      "percent": 0.126098,
+      "share": 6859179,
+      "symbol": "EBAY",
+      "value": 507858509.6788
+    },
+    {
+      "cusip": "494368103",
+      "isin": "US4943681035",
+      "name": "Kimberly-Clark Corporation",
+      "percent": 0.123399,
+      "share": 3585582,
+      "symbol": "KMB",
+      "value": 496988312.5494
+    },
+    {
+      "cusip": "502431109",
+      "isin": "US5024311095",
+      "name": "L3Harris Technologies Inc",
+      "percent": 0.123296,
+      "share": 2181087,
+      "symbol": "LHX",
+      "value": 496573481.0176
+    },
+    {
+      "cusip": "026874784",
+      "isin": "US0268747849",
+      "name": "American International Group Inc.",
+      "percent": 0.122573,
+      "share": 9111431,
+      "symbol": "AIG",
+      "value": 493661605.3138
+    },
+    {
+      "cusip": "37940X102",
+      "isin": "US37940X1028",
+      "name": "Global Payments Inc.",
+      "percent": 0.122265,
+      "share": 3132660,
+      "symbol": "GPN",
+      "value": 492421138.209
+    },
+    {
+      "cusip": "253868103",
+      "isin": "US2538681030",
+      "name": "Digital Realty Trust Inc.",
+      "percent": 0.122035,
+      "share": 2980392,
+      "symbol": "DLR",
+      "value": 491494815.371
+    },
+    {
+      "cusip": "651639106",
+      "isin": "US6516391066",
+      "name": "Newmont Corporation",
+      "percent": 0.121778,
+      "share": 8491649,
+      "symbol": "NEM",
+      "value": 490459750.2868
+    },
+    {
+      "cusip": "369550108",
+      "isin": "US3695501086",
+      "name": "General Dynamics Corporation",
+      "percent": 0.12107,
+      "share": 2431023,
+      "symbol": "GD",
+      "value": 487608286.942
+    },
+    {
+      "cusip": "G8994E103",
+      "isin": "IE00BK9ZQ967",
+      "name": "Trane Technologies plc",
+      "percent": 0.120425,
+      "share": 2530335,
+      "symbol": "TT",
+      "value": 485010555.505
+    },
+    {
+      "cusip": "260557103",
+      "isin": "US2605571031",
+      "name": "Dow Inc.",
+      "percent": 0.120359,
+      "share": 7905679,
+      "symbol": "DOW",
+      "value": 484744741.1254
+    },
+    {
+      "cusip": "127387108",
+      "isin": "US1273871087",
+      "name": "Cadence Design Systems Inc.",
+      "percent": 0.120157,
+      "share": 2959782,
+      "symbol": "CDNS",
+      "value": 483931188.02419996
+    },
+    {
+      "cusip": "14448C104",
+      "isin": "US14448C1045",
+      "name": "Carrier Global Corp.",
+      "percent": 0.119932,
+      "share": 8669355,
+      "symbol": "CARR",
+      "value": 483025002.6392
+    },
+    {
+      "cusip": "032095101",
+      "isin": "US0320951017",
+      "name": "Amphenol Corporation Class A",
+      "percent": 0.118839,
+      "share": 6356274,
+      "symbol": "APH",
+      "value": 478622955.41339993
+    },
+    {
+      "cusip": "59156R108",
+      "isin": "US59156R1086",
+      "name": "MetLife Inc.",
+      "percent": 0.118363,
+      "share": 7900985,
+      "symbol": "MET",
+      "value": 476705869.8878
+    },
+    {
+      "cusip": "G47567105",
+      "isin": "BMG475671050",
+      "name": "IHS Markit Ltd.",
+      "percent": 0.116957,
+      "share": 3956223,
+      "symbol": "INFO",
+      "value": 471043218.10420007
+    },
+    {
+      "cusip": "828806109",
+      "isin": "US8288061091",
+      "name": "Simon Property Group Inc.",
+      "percent": 0.115422,
+      "share": 3485376,
+      "symbol": "SPG",
+      "value": 464861020.0332
+    },
+    {
+      "cusip": "025537101",
+      "isin": "US0255371017",
+      "name": "American Electric Power Company Inc.",
+      "percent": 0.115307,
+      "share": 5270434,
+      "symbol": "AEP",
+      "value": 464397858.61420006
+    },
+    {
+      "cusip": "761152107",
+      "isin": "US7611521078",
+      "name": "ResMed Inc.",
+      "percent": 0.112455,
+      "share": 1543879,
+      "symbol": "RMD",
+      "value": 452911455.42300004
+    },
+    {
+      "cusip": "064058100",
+      "isin": "US0640581007",
+      "name": "Bank of New York Mellon Corporation",
+      "percent": 0.111887,
+      "share": 8559769,
+      "symbol": "BK",
+      "value": 450623840.7622
+    },
+    {
+      "cusip": "595017104",
+      "isin": "US5950171042",
+      "name": "Microchip Technology Incorporated",
+      "percent": 0.111524,
+      "share": 2904712,
+      "symbol": "MCHP",
+      "value": 449161861.67440003
+    },
+    {
+      "cusip": "34959E109",
+      "isin": "US34959E1091",
+      "name": "Fortinet Inc.",
+      "percent": 0.111054,
+      "share": 1436930,
+      "symbol": "FTNT",
+      "value": 447268941.09239995
+    },
+    {
+      "cusip": "071813109",
+      "isin": "US0718131099",
+      "name": "Baxter International Inc.",
+      "percent": 0.109506,
+      "share": 5339176,
+      "symbol": "BAX",
+      "value": 441034385.6436
+    },
+    {
+      "cusip": "816851109",
+      "isin": "US8168511090",
+      "name": "Sempra Energy",
+      "percent": 0.108843,
+      "share": 3345619,
+      "symbol": "SRE",
+      "value": 438364159.3758
+    },
+    {
+      "cusip": "285512109",
+      "isin": "US2855121099",
+      "name": "Electronic Arts Inc.",
+      "percent": 0.108579,
+      "share": 3038516,
+      "symbol": "EA",
+      "value": 437300901.8574
+    },
+    {
+      "cusip": "620076307",
+      "isin": "US6200763075",
+      "name": "Motorola Solutions Inc.",
+      "percent": 0.108093,
+      "share": 1793926,
+      "symbol": "MSI",
+      "value": 435343541.42579997
+    },
+    {
+      "cusip": "744320102",
+      "isin": "US7443201022",
+      "name": "Prudential Financial Inc.",
+      "percent": 0.107912,
+      "share": 4183376,
+      "symbol": "PRU",
+      "value": 434614565.6272
+    },
+    {
+      "cusip": "778296103",
+      "isin": "US7782961038",
+      "name": "Ross Stores Inc.",
+      "percent": 0.106458,
+      "share": 3777780,
+      "symbol": "ROST",
+      "value": 428758594.2948
+    },
+    {
+      "cusip": "G6095L109",
+      "isin": "JE00B783TY65",
+      "name": "Aptiv PLC",
+      "percent": 0.106179,
+      "share": 2865011,
+      "symbol": "APTV",
+      "value": 427634924.4174
+    },
+    {
+      "cusip": "67103H107",
+      "isin": "US67103H1077",
+      "name": "O'Reilly Automotive Inc.",
+      "percent": 0.105825,
+      "share": 740643,
+      "symbol": "ORLY",
+      "value": 426209192.745
+    },
+    {
+      "cusip": "192446102",
+      "isin": "US1924461023",
+      "name": "Cognizant Technology Solutions Corporation Class A",
+      "percent": 0.105012,
+      "share": 5599722,
+      "symbol": "CTSH",
+      "value": 422934842.8872
+    },
+    {
+      "cusip": "78410G104",
+      "isin": "US78410G1040",
+      "name": "SBA Communications Corp. Class A",
+      "percent": 0.104195,
+      "share": 1159596,
+      "symbol": "SBAC",
+      "value": 419644383.067
+    },
+    {
+      "cusip": "89417E109",
+      "isin": "US89417E1091",
+      "name": "Travelers Companies Inc.",
+      "percent": 0.103896,
+      "share": 2675680,
+      "symbol": "TRV",
+      "value": 418440163.3776
+    },
+    {
+      "cusip": "26875P101",
+      "isin": "US26875P1012",
+      "name": "EOG Resources Inc.",
+      "percent": 0.103101,
+      "share": 6191684,
+      "symbol": "EOG",
+      "value": 415238308.3506
+    },
+    {
+      "cusip": "020002101",
+      "isin": "US0200021014",
+      "name": "Allstate Corporation",
+      "percent": 0.102827,
+      "share": 3178510,
+      "symbol": "ALL",
+      "value": 414134775.92620003
+    },
+    {
+      "cusip": "871829107",
+      "isin": "US8718291078",
+      "name": "Sysco Corporation",
+      "percent": 0.102805,
+      "share": 5415972,
+      "symbol": "SYY",
+      "value": 414046171.13299996
+    },
+    {
+      "cusip": "806857108",
+      "isin": "AN8068571086",
+      "name": "Schlumberger NV",
+      "percent": 0.10158,
+      "share": 14833309,
+      "symbol": "SLB",
+      "value": 409112495.148
+    },
+    {
+      "cusip": "988498101",
+      "isin": "US9884981013",
+      "name": "Yum! Brands Inc.",
+      "percent": 0.100265,
+      "share": 3162824,
+      "symbol": "YUM",
+      "value": 403816345.009
+    },
+    {
+      "cusip": "26614N102",
+      "isin": "US26614N1028",
+      "name": "DuPont de Nemours Inc.",
+      "percent": 0.099305,
+      "share": 5650565,
+      "symbol": "DD",
+      "value": 399949954.03300005
+    },
+    {
+      "cusip": "983919101",
+      "isin": "US9839191015",
+      "name": "Xilinx Inc.",
+      "percent": 0.099305,
+      "share": 2607853,
+      "symbol": "XLNX",
+      "value": 399949954.03300005
+    },
+    {
+      "cusip": "701094104",
+      "isin": "US7010941042",
+      "name": "Parker-Hannifin Corporation",
+      "percent": 0.097699,
+      "share": 1369569,
+      "symbol": "PH",
+      "value": 393481804.12939996
+    },
+    {
+      "cusip": "56585A102",
+      "isin": "US56585A1025",
+      "name": "Marathon Petroleum Corporation",
+      "percent": 0.097503,
+      "share": 6765251,
+      "symbol": "MPC",
+      "value": 392692415.9718
+    },
+    {
+      "cusip": "459506101",
+      "isin": "US4595061015",
+      "name": "International Flavors \u0026 Fragrances Inc.",
+      "percent": 0.09745,
+      "share": 2638929,
+      "symbol": "IFF",
+      "value": 392478958.97
+    },
+    {
+      "cusip": "15135B101",
+      "isin": "US15135B1017",
+      "name": "Centene Corporation",
+      "percent": 0.09687,
+      "share": 6171340,
+      "symbol": "CNC",
+      "value": 390143014.422
+    },
+    {
+      "cusip": "254709108",
+      "isin": "US2547091080",
+      "name": "Discover Financial Services",
+      "percent": 0.09657,
+      "share": 3236976,
+      "symbol": "DFS",
+      "value": 388934767.24200004
+    },
+    {
+      "cusip": "773903109",
+      "isin": "US7739031091",
+      "name": "Rockwell Automation Inc.",
+      "percent": 0.096548,
+      "share": 1232058,
+      "symbol": "ROK",
+      "value": 388846162.44879997
+    },
+    {
+      "cusip": "592688105",
+      "isin": "US5926881054",
+      "name": "Mettler-Toledo International Inc.",
+      "percent": 0.096074,
+      "share": 247197,
+      "symbol": "MTD",
+      "value": 386937131.90440005
+    },
+    {
+      "cusip": "931427108",
+      "isin": "US9314271084",
+      "name": "Walgreens Boots Alliance Inc",
+      "percent": 0.095493,
+      "share": 7609239,
+      "symbol": "WBA",
+      "value": 384597159.86579996
+    },
+    {
+      "cusip": "98389B100",
+      "isin": "US98389B1008",
+      "name": "Xcel Energy Inc.",
+      "percent": 0.095487,
+      "share": 5715013,
+      "symbol": "XEL",
+      "value": 384572994.9222
+    },
+    {
+      "cusip": "68902V107",
+      "isin": "US68902V1070",
+      "name": "Otis Worldwide Corporation",
+      "percent": 0.094197,
+      "share": 4282886,
+      "symbol": "OTIS",
+      "value": 379377532.0482
+    },
+    {
+      "cusip": "704326107",
+      "isin": "US7043261079",
+      "name": "Paychex Inc.",
+      "percent": 0.093258,
+      "share": 3405440,
+      "symbol": "PAYX",
+      "value": 375595718.37479997
+    },
+    {
+      "cusip": "571903202",
+      "isin": "US5719032022",
+      "name": "Marriott International Inc. Class A",
+      "percent": 0.093117,
+      "share": 2822958,
+      "symbol": "MAR",
+      "value": 375027842.2002
+    },
+    {
+      "cusip": "693506107",
+      "isin": "US6935061076",
+      "name": "PPG Industries Inc.",
+      "percent": 0.093035,
+      "share": 2513850,
+      "symbol": "PPG",
+      "value": 374697587.9710001
+    },
+    {
+      "cusip": "95040Q104",
+      "isin": "US95040Q1040",
+      "name": "Welltower Inc.",
+      "percent": 0.09272,
+      "share": 4428297,
+      "symbol": "WELL",
+      "value": 373428928.432
+    },
+    {
+      "cusip": "21036P108",
+      "isin": "US21036P1084",
+      "name": "Constellation Brands Inc. Class A",
+      "percent": 0.092397,
+      "share": 1794199,
+      "symbol": "STZ",
+      "value": 372128048.96819997
+    },
+    {
+      "cusip": "61174X109",
+      "isin": "US61174X1090",
+      "name": "Monster Beverage Corporation",
+      "percent": 0.091881,
+      "share": 3923017,
+      "symbol": "MNST",
+      "value": 370049863.8186
+    },
+    {
+      "cusip": "001055102",
+      "isin": "US0010551028",
+      "name": "Aflac Incorporated",
+      "percent": 0.091251,
+      "share": 6711957,
+      "symbol": "AFL",
+      "value": 367512544.7406
+    },
+    {
+      "cusip": "501044101",
+      "isin": "US5010441013",
+      "name": "Kroger Co.",
+      "percent": 0.090968,
+      "share": 8038340,
+      "symbol": "KR",
+      "value": 366372764.90079993
+    },
+    {
+      "cusip": "33616C100",
+      "isin": "US33616C1009",
+      "name": "First Republic Bank",
+      "percent": 0.090821,
+      "share": 1856953,
+      "symbol": "FRC",
+      "value": 365780723.78260005
+    },
+    {
+      "cusip": "370334104",
+      "isin": "US3703341046",
+      "name": "General Mills Inc.",
+      "percent": 0.090646,
+      "share": 6486612,
+      "symbol": "GIS",
+      "value": 365075912.9276
+    },
+    {
+      "cusip": "172908105",
+      "isin": "US1729081059",
+      "name": "Cintas Corporation",
+      "percent": 0.090174,
+      "share": 936126,
+      "symbol": "CTAS",
+      "value": 363174937.3644
+    },
+    {
+      "cusip": "40434L105",
+      "isin": "US40434L1052",
+      "name": "HP Inc.",
+      "percent": 0.089929,
+      "share": 12756125,
+      "symbol": "HPQ",
+      "value": 362188202.1674
+    },
+    {
+      "cusip": "78486Q101",
+      "isin": "US78486Q1013",
+      "name": "SVB Financial Group",
+      "percent": 0.089781,
+      "share": 622628,
+      "symbol": "SIVB",
+      "value": 361592133.5586
+    },
+    {
+      "cusip": "43300A203",
+      "isin": "US43300A2033",
+      "name": "Hilton Worldwide Holdings Inc",
+      "percent": 0.089434,
+      "share": 2946016,
+      "symbol": "HLT",
+      "value": 360194594.3204
+    },
+    {
+      "cusip": "723787107",
+      "isin": "US7237871071",
+      "name": "Pioneer Natural Resources Company",
+      "percent": 0.089351,
+      "share": 2460950,
+      "symbol": "PXD",
+      "value": 359860312.6006
+    },
+    {
+      "cusip": "231021106",
+      "isin": "US2310211063",
+      "name": "Cummins Inc.",
+      "percent": 0.089324,
+      "share": 1552286,
+      "symbol": "CMI",
+      "value": 359751570.35440004
+    },
+    {
+      "cusip": "670346105",
+      "isin": "US6703461052",
+      "name": "Nucor Corporation",
+      "percent": 0.089307,
+      "share": 3162531,
+      "symbol": "NUE",
+      "value": 359683103.0142
+    },
+    {
+      "cusip": "955306105",
+      "isin": "US9553061055",
+      "name": "West Pharmaceutical Services Inc.",
+      "percent": 0.089267,
+      "share": 785460,
+      "symbol": "WST",
+      "value": 359522003.39019996
+    },
+    {
+      "cusip": "294429105",
+      "isin": "US2944291051",
+      "name": "Equifax Inc.",
+      "percent": 0.087204,
+      "share": 1292489,
+      "symbol": "EFX",
+      "value": 351213290.28239995
+    },
+    {
+      "cusip": "49338L103",
+      "isin": "US49338L1035",
+      "name": "Keysight Technologies Inc",
+      "percent": 0.087191,
+      "share": 1955812,
+      "symbol": "KEYS",
+      "value": 351160932.90459996
+    },
+    {
+      "cusip": "030420103",
+      "isin": "US0304201033",
+      "name": "American Water Works Company Inc.",
+      "percent": 0.08717,
+      "share": 1925272,
+      "symbol": "AWK",
+      "value": 351076355.602
+    },
+    {
+      "cusip": "039483102",
+      "isin": "US0394831020",
+      "name": "Archer-Daniels-Midland Company",
+      "percent": 0.086527,
+      "share": 5924779,
+      "symbol": "ADM",
+      "value": 348486679.1462
+    },
+    {
+      "cusip": "053332102",
+      "isin": "US0533321024",
+      "name": "AutoZone Inc.",
+      "percent": 0.086322,
+      "share": 229852,
+      "symbol": "AZO",
+      "value": 347661043.5732
+    },
+    {
+      "cusip": null,
+      "isin": null,
+      "name": "Verisk Analytics Inc",
+      "percent": 0.086304,
+      "share": 1726800,
+      "symbol": "VRSK",
+      "value": 347588548.74240005
+    },
+    {
+      "cusip": "12504L109",
+      "isin": "US12504L1098",
+      "name": "CBRE Group Inc. Class A",
+      "percent": 0.08585,
+      "share": 3560768,
+      "symbol": "CBRE",
+      "value": 345760068.01
+    },
+    {
+      "cusip": "22052L104",
+      "isin": "US22052L1044",
+      "name": "Corteva Inc",
+      "percent": 0.085367,
+      "share": 7825930,
+      "symbol": "CTVA",
+      "value": 343814790.0502
+    },
+    {
+      "cusip": "58155Q103",
+      "isin": "US58155Q1031",
+      "name": "McKesson Corporation",
+      "percent": 0.084923,
+      "share": 1679486,
+      "symbol": "MCK",
+      "value": 342026584.2238
+    },
+    {
+      "cusip": "893641100",
+      "isin": "US8936411003",
+      "name": "TransDigm Group Incorporated",
+      "percent": 0.08435,
+      "share": 580076,
+      "symbol": "TDG",
+      "value": 339718832.10999995
+    },
+    {
+      "cusip": "03662Q105",
+      "isin": "US03662Q1058",
+      "name": "ANSYS Inc.",
+      "percent": 0.083976,
+      "share": 917214,
+      "symbol": "ANSS",
+      "value": 338212550.6256
+    },
+    {
+      "cusip": "744573106",
+      "isin": "US7445731067",
+      "name": "Public Service Enterprise Group Inc",
+      "percent": 0.083054,
+      "share": 5359190,
+      "symbol": "PEG",
+      "value": 334499204.2924
+    },
+    {
+      "cusip": "058498106",
+      "isin": "US0584981064",
+      "name": "Ball Corporation",
+      "percent": 0.082987,
+      "share": 3479307,
+      "symbol": "BLL",
+      "value": 334229362.4222
+    },
+    {
+      "cusip": "053484101",
+      "isin": "US0534841012",
+      "name": "AvalonBay Communities Inc.",
+      "percent": 0.082899,
+      "share": 1480265,
+      "symbol": "AVB",
+      "value": 333874943.24939996
+    },
+    {
+      "cusip": "49456B101",
+      "isin": "US49456B1017",
+      "name": "Kinder Morgan Inc Class P",
+      "percent": 0.082142,
+      "share": 20656812,
+      "symbol": "KMI",
+      "value": 330826132.86520004
+    },
+    {
+      "cusip": "03076C106",
+      "isin": "US03076C1062",
+      "name": "Ameriprise Financial Inc.",
+      "percent": 0.08171,
+      "share": 1230585,
+      "symbol": "AMP",
+      "value": 329086256.926
+    },
+    {
+      "cusip": "857477103",
+      "isin": "US8574771031",
+      "name": "State Street Corporation",
+      "percent": 0.08125,
+      "share": 3692182,
+      "symbol": "STT",
+      "value": 327233611.25
+    },
+    {
+      "cusip": "989207105",
+      "isin": "US9892071054",
+      "name": "Zebra Technologies Corporation Class A",
+      "percent": 0.081096,
+      "share": 567103,
+      "symbol": "ZBRA",
+      "value": 326613377.6976
+    },
+    {
+      "cusip": "311900104",
+      "isin": "US3119001044",
+      "name": "Fastenal Company",
+      "percent": 0.080988,
+      "share": 6093771,
+      "symbol": "FAST",
+      "value": 326178408.7128
+    },
+    {
+      "cusip": "23331A109",
+      "isin": "US23331A1097",
+      "name": "D.R. Horton Inc.",
+      "percent": 0.080383,
+      "share": 3482964,
+      "symbol": "DHI",
+      "value": 323741776.8998
+    },
+    {
+      "cusip": "30040W108",
+      "isin": "US30040W1080",
+      "name": "Eversource Energy",
+      "percent": 0.080358,
+      "share": 3639430,
+      "symbol": "ES",
+      "value": 323641089.6348
+    },
+    {
+      "cusip": "031100100",
+      "isin": "US0311001004",
+      "name": "AMETEK Inc.",
+      "percent": 0.080147,
+      "share": 2446540,
+      "symbol": "AME",
+      "value": 322791289.1182
+    },
+    {
+      "cusip": "98956P102",
+      "isin": "US98956P1021",
+      "name": "Zimmer Biomet Holdings Inc.",
+      "percent": 0.079588,
+      "share": 2205941,
+      "symbol": "ZBH",
+      "value": 320539921.87280005
+    },
+    {
+      "cusip": "219350105",
+      "isin": "US2193501051",
+      "name": "Corning Inc",
+      "percent": 0.079351,
+      "share": 8153574,
+      "symbol": "GLW",
+      "value": 319585406.6006
+    },
+    {
+      "cusip": "718546104",
+      "isin": "US7185461040",
+      "name": "Phillips 66",
+      "percent": 0.078396,
+      "share": 4634770,
+      "symbol": "PSX",
+      "value": 315739153.0776
+    },
+    {
+      "cusip": "83088M102",
+      "isin": "US83088M1027",
+      "name": "Skyworks Solutions Inc.",
+      "percent": 0.078113,
+      "share": 1749481,
+      "symbol": "SWKS",
+      "value": 314599373.2378
+    },
+    {
+      "cusip": "969457100",
+      "isin": "US9694571004",
+      "name": "Williams Companies Inc.",
+      "percent": 0.078022,
+      "share": 12878726,
+      "symbol": "WMB",
+      "value": 314232871.59319997
+    },
+    {
+      "cusip": "217204106",
+      "isin": "US2172041061",
+      "name": "Copart Inc.",
+      "percent": 0.077636,
+      "share": 2206333,
+      "symbol": "CPRT",
+      "value": 312678260.2216
+    },
+    {
+      "cusip": "92939U106",
+      "isin": "US92939U1060",
+      "name": "WEC Energy Group Inc",
+      "percent": 0.077458,
+      "share": 3346580,
+      "symbol": "WEC",
+      "value": 311961366.8948
+    },
+    {
+      "cusip": "50540R409",
+      "isin": "US50540R4092",
+      "name": "Laboratory Corporation of America Holdings",
+      "percent": 0.077319,
+      "share": 1035437,
+      "symbol": "LH",
+      "value": 311401545.7014
+    },
+    {
+      "cusip": "854502101",
+      "isin": "US8545021011",
+      "name": "Stanley Black \u0026 Decker Inc.",
+      "percent": 0.076964,
+      "share": 1706987,
+      "symbol": "SWK",
+      "value": 309971786.5384
+    },
+    {
+      "cusip": "363576109",
+      "isin": "US3635761097",
+      "name": "Arthur J. Gallagher \u0026 Co.",
+      "percent": 0.076926,
+      "share": 2175638,
+      "symbol": "AJG",
+      "value": 309818741.89559996
+    },
+    {
+      "cusip": "G96629103",
+      "isin": "IE00BDB6Q211",
+      "name": "Willis Towers Watson Public Limited Company",
+      "percent": 0.076469,
+      "share": 1368390,
+      "symbol": "WLTW",
+      "value": 307978178.6914
+    },
+    {
+      "cusip": "679580100",
+      "isin": "US6795801009",
+      "name": "Old Dominion Freight Line Inc.",
+      "percent": 0.075021,
+      "share": 1009666,
+      "symbol": "ODFL",
+      "value": 302146372.3026
+    },
+    {
+      "cusip": "844741108",
+      "isin": "US8447411088",
+      "name": "Southwest Airlines Co.",
+      "percent": 0.074848,
+      "share": 6267758,
+      "symbol": "LUV",
+      "value": 301449616.4288
+    },
+    {
+      "cusip": "526057104",
+      "isin": "US5260571048",
+      "name": "Lennar Corporation Class A",
+      "percent": 0.074811,
+      "share": 2912927,
+      "symbol": "LEN",
+      "value": 301300599.2766
+    },
+    {
+      "cusip": "693718108",
+      "isin": "US6937181088",
+      "name": "PACCAR Inc",
+      "percent": 0.074747,
+      "share": 3681094,
+      "symbol": "PCAR",
+      "value": 301042839.87819993
+    },
+    {
+      "cusip": "29476L107",
+      "isin": "US29476L1070",
+      "name": "Equity Residential",
+      "percent": 0.074606,
+      "share": 3637997,
+      "symbol": "EQR",
+      "value": 300474963.7036
+    },
+    {
+      "cusip": "015271109",
+      "isin": "US0152711091",
+      "name": "Alexandria Real Estate Equities Inc.",
+      "percent": 0.073819,
+      "share": 1456987,
+      "symbol": "ARE",
+      "value": 297305328.6014
+    },
+    {
+      "cusip": "12514G108",
+      "isin": "US12514G1085",
+      "name": "CDW Corp.",
+      "percent": 0.073706,
+      "share": 1488371,
+      "symbol": "CDW",
+      "value": 296850222.16359997
+    },
+    {
+      "cusip": "368736104",
+      "isin": "US3687361044",
+      "name": "Generac Holdings Inc.",
+      "percent": 0.073126,
+      "share": 666983,
+      "symbol": "GNRC",
+      "value": 294514277.6156
+    },
+    {
+      "cusip": "012653101",
+      "isin": "US0126531013",
+      "name": "Albemarle Corporation",
+      "percent": 0.072723,
+      "share": 1237695,
+      "symbol": "ALB",
+      "value": 292891198.90379995
+    },
+    {
+      "cusip": "29786A106",
+      "isin": "US29786A1060",
+      "name": "Etsy Inc.",
+      "percent": 0.071897,
+      "share": 1349949,
+      "symbol": "ETSY",
+      "value": 289564491.6682
+    },
+    {
+      "cusip": "316773100",
+      "isin": "US3167731005",
+      "name": "Fifth Third Bancorp",
+      "percent": 0.070919,
+      "share": 7474282,
+      "symbol": "FITB",
+      "value": 285625605.8614
+    },
+    {
+      "cusip": "962166104",
+      "isin": "US9621661043",
+      "name": "Weyerhaeuser Company",
+      "percent": 0.070538,
+      "share": 7934085,
+      "symbol": "WY",
+      "value": 284091131.94280005
+    },
+    {
+      "cusip": "366651107",
+      "isin": "US3666511072",
+      "name": "Gartner Inc.",
+      "percent": 0.070148,
+      "share": 914337,
+      "symbol": "IT",
+      "value": 282520410.6088
+    },
+    {
+      "cusip": "91913Y100",
+      "isin": "US91913Y1001",
+      "name": "Valero Energy Corporation",
+      "percent": 0.069887,
+      "share": 4334726,
+      "symbol": "VLO",
+      "value": 281469235.5622
+    },
+    {
+      "cusip": "756109104",
+      "isin": "US7561091049",
+      "name": "Realty Income Corporation",
+      "percent": 0.069423,
+      "share": 3961926,
+      "symbol": "O",
+      "value": 279600479.9238
+    },
+    {
+      "cusip": "485170302",
+      "isin": "US4851703029",
+      "name": "Kansas City Southern",
+      "percent": 0.068197,
+      "share": 963753,
+      "symbol": "KSU",
+      "value": 274662776.4482
+    },
+    {
+      "cusip": "941848103",
+      "isin": "US9418481035",
+      "name": "Waters Corporation",
+      "percent": 0.068168,
+      "share": 654938,
+      "symbol": "WAT",
+      "value": 274545979.22080004
+    },
+    {
+      "cusip": "H2906T109",
+      "isin": "CH0114405324",
+      "name": "Garmin Ltd.",
+      "percent": 0.068078,
+      "share": 1585461,
+      "symbol": "GRMN",
+      "value": 274183505.0668
+    },
+    {
+      "cusip": "760759100",
+      "isin": "US7607591002",
+      "name": "Republic Services Inc.",
+      "percent": 0.067777,
+      "share": 2233169,
+      "symbol": "RSG",
+      "value": 272971230.3962
+    },
+    {
+      "cusip": "247361702",
+      "isin": "US2473617023",
+      "name": "Delta Air Lines Inc.",
+      "percent": 0.067235,
+      "share": 6771669,
+      "symbol": "DAL",
+      "value": 270788330.491
+    },
+    {
+      "cusip": "209115104",
+      "isin": "US2091151041",
+      "name": "Consolidated Edison Inc.",
+      "percent": 0.066955,
+      "share": 3633785,
+      "symbol": "ED",
+      "value": 269660633.12299997
+    },
+    {
+      "cusip": "30225T102",
+      "isin": "US30225T1025",
+      "name": "Extra Space Storage Inc.",
+      "percent": 0.066716,
+      "share": 1420260,
+      "symbol": "EXR",
+      "value": 268698062.8696
+    },
+    {
+      "cusip": "427866108",
+      "isin": "US4278661081",
+      "name": "Hershey Company",
+      "percent": 0.066462,
+      "share": 1554682,
+      "symbol": "HSY",
+      "value": 267675080.25719997
+    },
+    {
+      "cusip": "87165B103",
+      "isin": "US87165B1035",
+      "name": "Synchrony Financial",
+      "percent": 0.066178,
+      "share": 5761328,
+      "symbol": "SYF",
+      "value": 266531272.9268
+    },
+    {
+      "cusip": "92556H206",
+      "isin": "US92556H2067",
+      "name": "ViacomCBS Inc. Class B",
+      "percent": 0.06586,
+      "share": 6430714,
+      "symbol": "VIAC",
+      "value": 265250530.916
+    },
+    {
+      "cusip": "911363109",
+      "isin": "US9113631090",
+      "name": "United Rentals Inc.",
+      "percent": 0.065216,
+      "share": 766536,
+      "symbol": "URI",
+      "value": 262656826.9696
+    },
+    {
+      "cusip": "34959J108",
+      "isin": "US34959J1088",
+      "name": "Fortive Corp.",
+      "percent": 0.065113,
+      "share": 3586971,
+      "symbol": "FTV",
+      "value": 262241995.43780002
+    },
+    {
+      "cusip": "086516101",
+      "isin": "US0865161014",
+      "name": "Best Buy Co. Inc.",
+      "percent": 0.064944,
+      "share": 2367051,
+      "symbol": "BBY",
+      "value": 261561349.5264
+    },
+    {
+      "cusip": "260003108",
+      "isin": "US2600031080",
+      "name": "Dover Corporation",
+      "percent": 0.064812,
+      "share": 1524504,
+      "symbol": "DOV",
+      "value": 261029720.76719996
+    },
+    {
+      "cusip": "98419M100",
+      "isin": "US98419M1009",
+      "name": "Xylem Inc.",
+      "percent": 0.06387,
+      "share": 1913467,
+      "symbol": "XYL",
+      "value": 257235824.62199998
+    },
+    {
+      "cusip": "N53745100",
+      "isin": "NL0009434992",
+      "name": "LyondellBasell Industries NV",
+      "percent": 0.063569,
+      "share": 2729680,
+      "symbol": "LYB",
+      "value": 256023549.95139998
+    },
+    {
+      "cusip": "416515104",
+      "isin": "US4165151048",
+      "name": "Hartford Financial Services Group Inc.",
+      "percent": 0.063055,
+      "share": 3792885,
+      "symbol": "HIG",
+      "value": 253953419.783
+    },
+    {
+      "cusip": "148806102",
+      "isin": "US1488061029",
+      "name": "Catalent Inc",
+      "percent": 0.062805,
+      "share": 1808746,
+      "symbol": "CTLT",
+      "value": 252946547.133
+    },
+    {
+      "cusip": "665859104",
+      "isin": "US6658591044",
+      "name": "Northern Trust Corporation",
+      "percent": 0.062769,
+      "share": 2209873,
+      "symbol": "NTRS",
+      "value": 252801557.47140002
+    },
+    {
+      "cusip": "896239100",
+      "isin": "US8962391004",
+      "name": "Trimble Inc.",
+      "percent": 0.061968,
+      "share": 2662644,
+      "symbol": "TRMB",
+      "value": 249575537.5008
+    },
+    {
+      "cusip": "70432V102",
+      "isin": "US70432V1026",
+      "name": "Paycom Software Inc.",
+      "percent": 0.061939,
+      "share": 520820,
+      "symbol": "PAYC",
+      "value": 249458740.2734
+    },
+    {
+      "cusip": "929160109",
+      "isin": "US9291601097",
+      "name": "Vulcan Materials Company",
+      "percent": 0.061269,
+      "share": 1406332,
+      "symbol": "VMC",
+      "value": 246760321.5714
+    },
+    {
+      "cusip": "682680103",
+      "isin": "US6826801036",
+      "name": "ONEOK Inc.",
+      "percent": 0.060962,
+      "share": 4721605,
+      "symbol": "OKE",
+      "value": 245523881.95720002
+    },
+    {
+      "cusip": "69351T106",
+      "isin": "US69351T1060",
+      "name": "PPL Corporation",
+      "percent": 0.060452,
+      "share": 8159092,
+      "symbol": "PPL",
+      "value": 243469861.7512
+    },
+    {
+      "cusip": "500754106",
+      "isin": "US5007541064",
+      "name": "Kraft Heinz Company",
+      "percent": 0.060356,
+      "share": 6878275,
+      "symbol": "KHC",
+      "value": 243083222.6536
+    },
+    {
+      "cusip": "233331107",
+      "isin": "US2333311072",
+      "name": "DTE Energy Company",
+      "percent": 0.060345,
+      "share": 2055965,
+      "symbol": "DTE",
+      "value": 243038920.257
+    },
+    {
+      "cusip": "918204108",
+      "isin": "US9182041080",
+      "name": "V.F. Corporation",
+      "percent": 0.060246,
+      "share": 3407069,
+      "symbol": "VFC",
+      "value": 242640198.68760002
+    },
+    {
+      "cusip": "460146103",
+      "isin": "US4601461035",
+      "name": "International Paper Company",
+      "percent": 0.060231,
+      "share": 4169898,
+      "symbol": "IP",
+      "value": 242579786.32860002
+    },
+    {
+      "cusip": "573284106",
+      "isin": "US5732841060",
+      "name": "Martin Marietta Materials Inc.",
+      "percent": 0.060175,
+      "share": 661104,
+      "symbol": "MLM",
+      "value": 242354246.855
+    },
+    {
+      "cusip": "29355A107",
+      "isin": "US29355A1079",
+      "name": "Enphase Energy Inc.",
+      "percent": 0.059833,
+      "share": 1441095,
+      "symbol": "ENPH",
+      "value": 240976845.0698
+    },
+    {
+      "cusip": "156782104",
+      "isin": "US1567821046",
+      "name": "Cerner Corporation",
+      "percent": 0.059663,
+      "share": 3199133,
+      "symbol": "CERN",
+      "value": 240292171.66779998
+    },
+    {
+      "cusip": "892356106",
+      "isin": "US8923561067",
+      "name": "Tractor Supply Company",
+      "percent": 0.059629,
+      "share": 1223813,
+      "symbol": "TSCO",
+      "value": 240155236.98740003
+    },
+    {
+      "cusip": "902494103",
+      "isin": "US9024941034",
+      "name": "Tyson Foods Inc. Class A",
+      "percent": 0.059469,
+      "share": 3126885,
+      "symbol": "TSN",
+      "value": 239510838.4914
+    },
+    {
+      "cusip": "631103108",
+      "isin": "US6311031081",
+      "name": "Nasdaq Inc.",
+      "percent": 0.059157,
+      "share": 1223636,
+      "symbol": "NDAQ",
+      "value": 238254261.42420003
+    },
+    {
+      "cusip": "29364G103",
+      "isin": "US29364G1031",
+      "name": "Entergy Corporation",
+      "percent": 0.058886,
+      "share": 2127167,
+      "symbol": "ETR",
+      "value": 237162811.4716
+    },
+    {
+      "cusip": "446150104",
+      "isin": "US4461501045",
+      "name": "Huntington Bancshares Incorporated",
+      "percent": 0.058861,
+      "share": 15634364,
+      "symbol": "HBAN",
+      "value": 237062124.2066
+    },
+    {
+      "cusip": "159864107",
+      "isin": "US1598641074",
+      "name": "Charles River Laboratories International Inc.",
+      "percent": 0.058448,
+      "share": 528811,
+      "symbol": "CRL",
+      "value": 235398770.5888
+    },
+    {
+      "cusip": "12769G100",
+      "isin": "US12769G1004",
+      "name": "Caesars Entertainment Inc",
+      "percent": 0.058233,
+      "share": 2210057,
+      "symbol": "CZR",
+      "value": 234532860.10979998
+    },
+    {
+      "cusip": "281020107",
+      "isin": "US2810201077",
+      "name": "Edison International",
+      "percent": 0.058059,
+      "share": 4024292,
+      "symbol": "EIX",
+      "value": 233832076.7454
+    },
+    {
+      "cusip": "023608102",
+      "isin": "US0236081024",
+      "name": "Ameren Corporation",
+      "percent": 0.05752,
+      "share": 2713681,
+      "symbol": "AEE",
+      "value": 231661259.312
+    },
+    {
+      "cusip": "216648402",
+      "isin": "US2166484020",
+      "name": "Cooper Companies Inc.",
+      "percent": 0.057474,
+      "share": 521553,
+      "symbol": "COO",
+      "value": 231475994.7444
+    },
+    {
+      "cusip": "59522J103",
+      "isin": "US59522J1034",
+      "name": "Mid-America Apartment Communities Inc.",
+      "percent": 0.057455,
+      "share": 1213440,
+      "symbol": "MAA",
+      "value": 231399472.42299998
+    },
+    {
+      "cusip": "92343E102",
+      "isin": "US92343E1029",
+      "name": "VeriSign Inc.",
+      "percent": 0.057199,
+      "share": 1055397,
+      "symbol": "VRSN",
+      "value": 230368434.82939997
+    },
+    {
+      "cusip": "339041105",
+      "isin": "US3390411052",
+      "name": "FLEETCOR Technologies Inc.",
+      "percent": 0.056672,
+      "share": 884979,
+      "symbol": "FLT",
+      "value": 228245947.2832
+    },
+    {
+      "cusip": "579780206",
+      "isin": "US5797802064",
+      "name": "McCormick \u0026 Company Incorporated",
+      "percent": 0.056525,
+      "share": 2641252,
+      "symbol": "MKC",
+      "value": 227653906.165
+    },
+    {
+      "cusip": "674599105",
+      "isin": "US6745991058",
+      "name": "Occidental Petroleum Corporation",
+      "percent": 0.056172,
+      "share": 8896281,
+      "symbol": "OXY",
+      "value": 226232201.98319998
+    },
+    {
+      "cusip": "256746108",
+      "isin": "US2567461080",
+      "name": "Dollar Tree Inc.",
+      "percent": 0.055881,
+      "share": 2462543,
+      "symbol": "DLTR",
+      "value": 225060202.2186
+    },
+    {
+      "cusip": "297178105",
+      "isin": "US2971781057",
+      "name": "Essex Property Trust Inc.",
+      "percent": 0.055566,
+      "share": 689471,
+      "symbol": "ESS",
+      "value": 223791542.6796
+    },
+    {
+      "cusip": "714046109",
+      "isin": "US7140461093",
+      "name": "PerkinElmer Inc.",
+      "percent": 0.055537,
+      "share": 1188997,
+      "symbol": "PKI",
+      "value": 223674745.45220003
+    },
+    {
+      "cusip": "609839105",
+      "isin": "US6098391054",
+      "name": "Monolithic Power Systems Inc.",
+      "percent": 0.055122,
+      "share": 450400,
+      "symbol": "MPWR",
+      "value": 222003336.8532
+    },
+    {
+      "cusip": "189054109",
+      "isin": "US1890541097",
+      "name": "Clorox Company",
+      "percent": 0.054629,
+      "share": 1320438,
+      "symbol": "CLX",
+      "value": 220017783.98739997
+    },
+    {
+      "cusip": "92276F100",
+      "isin": "US92276F1003",
+      "name": "Ventas Inc.",
+      "percent": 0.054599,
+      "share": 3975696,
+      "symbol": "VTR",
+      "value": 219896959.26940003
+    },
+    {
+      "cusip": "337932107",
+      "isin": "US3379321074",
+      "name": "FirstEnergy Corp.",
+      "percent": 0.054559,
+      "share": 5763535,
+      "symbol": "FE",
+      "value": 219735859.64540002
+    },
+    {
+      "cusip": "G8473T100",
+      "isin": "IE00BFY8C754",
+      "name": "STERIS Plc",
+      "percent": 0.054548,
+      "share": 1033994,
+      "symbol": "STE",
+      "value": 219691557.2488
+    },
+    {
+      "cusip": "30212P303",
+      "isin": "US30212P3038",
+      "name": "Expedia Group Inc.",
+      "percent": 0.054506,
+      "share": 1501836,
+      "symbol": "EXPE",
+      "value": 219522402.64360002
+    },
+    {
+      "cusip": "302130109",
+      "isin": "US3021301094",
+      "name": "Expeditors International of Washington Inc.",
+      "percent": 0.054326,
+      "share": 1796667,
+      "symbol": "EXPD",
+      "value": 218797454.33560002
+    },
+    {
+      "cusip": "90384S303",
+      "isin": "US90384S3031",
+      "name": "Ulta Beauty Inc",
+      "percent": 0.054264,
+      "share": 581350,
+      "symbol": "ULTA",
+      "value": 218547749.9184
+    },
+    {
+      "cusip": "74736K101",
+      "isin": "US74736K1016",
+      "name": "Qorvo Inc.",
+      "percent": 0.053993,
+      "share": 1201123,
+      "symbol": "QRVO",
+      "value": 217456299.9658
+    },
+    {
+      "cusip": "143130102",
+      "isin": "US1431301027",
+      "name": "CarMax Inc.",
+      "percent": 0.053868,
+      "share": 1724810,
+      "symbol": "KMX",
+      "value": 216952863.64079997
+    },
+    {
+      "cusip": "879360105",
+      "isin": "US8793601050",
+      "name": "Teledyne Technologies Incorporated",
+      "percent": 0.053757,
+      "share": 492489,
+      "symbol": "TDY",
+      "value": 216505812.1842
+    },
+    {
+      "cusip": "171340102",
+      "isin": "US1713401024",
+      "name": "Church \u0026 Dwight Co. Inc.",
+      "percent": 0.053737,
+      "share": 2600089,
+      "symbol": "CHD",
+      "value": 216425262.3722
+    },
+    {
+      "cusip": "436440101",
+      "isin": "US4364401012",
+      "name": "Hologic Inc.",
+      "percent": 0.053655,
+      "share": 2732767,
+      "symbol": "HOLX",
+      "value": 216095008.143
+    },
+    {
+      "cusip": "74834L100",
+      "isin": "US74834L1008",
+      "name": "Quest Diagnostics Incorporated",
+      "percent": 0.053098,
+      "share": 1387310,
+      "symbol": "DGX",
+      "value": 213851695.8788
+    },
+    {
+      "cusip": "64110D104",
+      "isin": "US64110D1046",
+      "name": "NetApp Inc.",
+      "percent": 0.052304,
+      "share": 2361764,
+      "symbol": "NTAP",
+      "value": 210653868.3424
+    },
+    {
+      "cusip": "880770102",
+      "isin": "US8807701029",
+      "name": "Teradyne Inc.",
+      "percent": 0.05228,
+      "share": 1768154,
+      "symbol": "TER",
+      "value": 210557208.568
+    },
+    {
+      "cusip": "09073M104",
+      "isin": "US09073M1045",
+      "name": "Bio-Techne Corporation",
+      "percent": 0.052166,
+      "share": 412295,
+      "symbol": "TECH",
+      "value": 210098074.63959998
+    },
+    {
+      "cusip": "25754A201",
+      "isin": "US25754A2015",
+      "name": "Domino's Pizza Inc.",
+      "percent": 0.052092,
+      "share": 411841,
+      "symbol": "DPZ",
+      "value": 209800040.3352
+    },
+    {
+      "cusip": "264411505",
+      "isin": "US2644115055",
+      "name": "Duke Realty Corporation",
+      "percent": 0.051712,
+      "share": 3965109,
+      "symbol": "DRE",
+      "value": 208269593.9072
+    },
+    {
+      "cusip": "73278L105",
+      "isin": "US73278L1052",
+      "name": "Pool Corporation",
+      "percent": 0.051611,
+      "share": 427128,
+      "symbol": "POOL",
+      "value": 207862817.3566
+    },
+    {
+      "cusip": "040413106",
+      "isin": "US0404131064",
+      "name": "Arista Networks Inc.",
+      "percent": 0.051419,
+      "share": 581316,
+      "symbol": "ANET",
+      "value": 207089539.1614
+    },
+    {
+      "cusip": "902252105",
+      "isin": "US9022521051",
+      "name": "Tyler Technologies Inc.",
+      "percent": 0.051265,
+      "share": 430652,
+      "symbol": "TYL",
+      "value": 206469305.60899997
+    },
+    {
+      "cusip": "11133T103",
+      "isin": "US11133T1034",
+      "name": "Broadridge Financial Solutions Inc.",
+      "percent": 0.05102,
+      "share": 1228456,
+      "symbol": "BR",
+      "value": 205482570.412
+    },
+    {
+      "cusip": "42824C109",
+      "isin": "US42824C1099",
+      "name": "Hewlett Packard Enterprise Co.",
+      "percent": 0.050848,
+      "share": 13757580,
+      "symbol": "HPE",
+      "value": 204789842.02879998
+    },
+    {
+      "cusip": "493267108",
+      "isin": "US4932671088",
+      "name": "KeyCorp",
+      "percent": 0.050694,
+      "share": 10280116,
+      "symbol": "KEY",
+      "value": 204169608.4764
+    },
+    {
+      "cusip": "45687V106",
+      "isin": "US45687V1061",
+      "name": "Ingersoll Rand Inc.",
+      "percent": 0.050446,
+      "share": 3960705,
+      "symbol": "IR",
+      "value": 203170790.8076
+    },
+    {
+      "cusip": "42250P103",
+      "isin": "US42250P1030",
+      "name": "Healthpeak Properties Inc.",
+      "percent": 0.050309,
+      "share": 5715649,
+      "symbol": "PEAK",
+      "value": 202619024.5954
+    },
+    {
+      "cusip": "237194105",
+      "isin": "US2371941053",
+      "name": "Darden Restaurants Inc.",
+      "percent": 0.050214,
+      "share": 1383026,
+      "symbol": "DRI",
+      "value": 202236412.9884
+    },
+    {
+      "cusip": "42809H107",
+      "isin": "US42809H1077",
+      "name": "Hess Corporation",
+      "percent": 0.050018,
+      "share": 2899239,
+      "symbol": "HES",
+      "value": 201447024.83080003
+    },
+    {
+      "cusip": "7591EP100",
+      "isin": "US7591EP1005",
+      "name": "Regions Financial Corporation",
+      "percent": 0.04936,
+      "share": 10192676,
+      "symbol": "RF",
+      "value": 198796936.01600003
+    },
+    {
+      "cusip": "G0250X107",
+      "isin": "JE00BJ1F3079",
+      "name": "Amcor PLC",
+      "percent": 0.049224,
+      "share": 16369848,
+      "symbol": "AMCR",
+      "value": 198249197.29439998
+    },
+    {
+      "cusip": "143658300",
+      "isin": "PA1436583006",
+      "name": "Carnival Corporation",
+      "percent": 0.049075,
+      "share": 8464934,
+      "symbol": "CCL",
+      "value": 197649101.195
+    },
+    {
+      "cusip": "879369106",
+      "isin": "US8793691069",
+      "name": "Teleflex Incorporated",
+      "percent": 0.048647,
+      "share": 495302,
+      "symbol": "TFX",
+      "value": 195925335.2182
+    },
+    {
+      "cusip": "053611109",
+      "isin": "US0536111091",
+      "name": "Avery Dennison Corporation",
+      "percent": 0.048534,
+      "share": 880994,
+      "symbol": "AVY",
+      "value": 195470228.7804
+    },
+    {
+      "cusip": "384802104",
+      "isin": "US3848021040",
+      "name": "W.W. Grainger Inc.",
+      "percent": 0.048405,
+      "share": 466753,
+      "symbol": "GWW",
+      "value": 194950682.493
+    },
+    {
+      "cusip": "958102105",
+      "isin": "US9581021055",
+      "name": "Western Digital Corporation",
+      "percent": 0.048247,
+      "share": 3246204,
+      "symbol": "WDC",
+      "value": 194314338.9782
+    },
+    {
+      "cusip": "00971T101",
+      "isin": "US00971T1016",
+      "name": "Akamai Technologies Inc.",
+      "percent": 0.048024,
+      "share": 1731556,
+      "symbol": "AKAM",
+      "value": 193416208.57439998
+    },
+    {
+      "cusip": "874054109",
+      "isin": "US8740541094",
+      "name": "Take-Two Interactive Software Inc.",
+      "percent": 0.047851,
+      "share": 1222173,
+      "symbol": "TTWO",
+      "value": 192719452.70059997
+    },
+    {
+      "cusip": "125896100",
+      "isin": "US1258961002",
+      "name": "CMS Energy Corporation",
+      "percent": 0.047834,
+      "share": 3060319,
+      "symbol": "CMS",
+      "value": 192650985.36040002
+    },
+    {
+      "cusip": "03073E105",
+      "isin": "US03073E1055",
+      "name": "AmerisourceBergen Corporation",
+      "percent": 0.047803,
+      "share": 1564004,
+      "symbol": "ABC",
+      "value": 192526133.1518
+    },
+    {
+      "cusip": "174610105",
+      "isin": "US1746101054",
+      "name": "Citizens Financial Group Inc.",
+      "percent": 0.047627,
+      "share": 4510663,
+      "symbol": "CFG",
+      "value": 191817294.80620003
+    },
+    {
+      "cusip": "172062101",
+      "isin": "US1720621010",
+      "name": "Cincinnati Financial Corporation",
+      "percent": 0.046742,
+      "share": 1590504,
+      "symbol": "CINF",
+      "value": 188252965.6252
+    },
+    {
+      "cusip": "V7780T103",
+      "isin": "LR0008862868",
+      "name": "Royal Caribbean Group",
+      "percent": 0.046557,
+      "share": 2322931,
+      "symbol": "RCL",
+      "value": 187507879.86420003
+    },
+    {
+      "cusip": "55261F104",
+      "isin": "US55261F1049",
+      "name": "M\u0026T Bank Corporation",
+      "percent": 0.046483,
+      "share": 1364688,
+      "symbol": "MTB",
+      "value": 187209845.5598
+    },
+    {
+      "cusip": "406216101",
+      "isin": "US4062161017",
+      "name": "Halliburton Company",
+      "percent": 0.046207,
+      "share": 9431394,
+      "symbol": "HAL",
+      "value": 186098258.1542
+    },
+    {
+      "cusip": "552953101",
+      "isin": "US5529531015",
+      "name": "MGM Resorts International",
+      "percent": 0.046206,
+      "share": 4322627,
+      "symbol": "MGM",
+      "value": 186094230.6636
+    },
+    {
+      "cusip": "92556V106",
+      "isin": "US92556V1061",
+      "name": "Viatris Inc.",
+      "percent": 0.046204,
+      "share": 12808101,
+      "symbol": "VTRS",
+      "value": 186086175.68240002
+    },
+    {
+      "cusip": "G7997R103",
+      "isin": "IE00BKVD2N49",
+      "name": "Seagate Technology Holdings PLC",
+      "percent": 0.04581,
+      "share": 2114080,
+      "symbol": "STX",
+      "value": 184499344.38599998
+    },
+    {
+      "cusip": "62944T105",
+      "isin": "US62944T1051",
+      "name": "NVR Inc.",
+      "percent": 0.045565,
+      "share": 36292,
+      "symbol": "NVR",
+      "value": 183512609.189
+    },
+    {
+      "cusip": "090572207",
+      "isin": "US0905722072",
+      "name": "Bio-Rad Laboratories Inc. Class A",
+      "percent": 0.045396,
+      "share": 228799,
+      "symbol": "BIO",
+      "value": 182831963.2776
+    },
+    {
+      "cusip": "372460105",
+      "isin": "US3724601055",
+      "name": "Genuine Parts Company",
+      "percent": 0.045287,
+      "share": 1532145,
+      "symbol": "GPC",
+      "value": 182392966.80220002
+    },
+    {
+      "cusip": "469814107",
+      "isin": "US4698141078",
+      "name": "Jacobs Engineering Group Inc.",
+      "percent": 0.045272,
+      "share": 1380195,
+      "symbol": "J",
+      "value": 182332554.4432
+    },
+    {
+      "cusip": "070830104",
+      "isin": "US0708301041",
+      "name": "Bath \u0026 Body Works Inc.",
+      "percent": 0.044981,
+      "share": 2813161,
+      "symbol": "BBWI WI",
+      "value": 181160554.6786
+    },
+    {
+      "cusip": "25179M103",
+      "isin": "US25179M1036",
+      "name": "Devon Energy Corporation",
+      "percent": 0.04494,
+      "share": 6284562,
+      "symbol": "DVN",
+      "value": 180995427.564
+    },
+    {
+      "cusip": "150870103",
+      "isin": "US1508701034",
+      "name": "Celanese Corporation",
+      "percent": 0.044867,
+      "share": 1195804,
+      "symbol": "CE",
+      "value": 180701420.7502
+    },
+    {
+      "cusip": "57060D108",
+      "isin": "US57060D1081",
+      "name": "MarketAxess Holdings Inc.",
+      "percent": 0.044739,
+      "share": 402866,
+      "symbol": "MKTX",
+      "value": 180185901.95340002
+    },
+    {
+      "cusip": "003654100",
+      "isin": "US0036541003",
+      "name": "ABIOMED Inc.",
+      "percent": 0.044454,
+      "share": 480210,
+      "symbol": "ABMD",
+      "value": 179038067.1324
+    },
+    {
+      "cusip": "754730109",
+      "isin": "US7547301090",
+      "name": "Raymond James Financial Inc.",
+      "percent": 0.044382,
+      "share": 1301987,
+      "symbol": "RJF",
+      "value": 178748087.8092
+    },
+    {
+      "cusip": "05722G100",
+      "isin": "US05722G1004",
+      "name": "Baker Hughes Company Class A",
+      "percent": 0.043808,
+      "share": 7733735,
+      "symbol": "BKR",
+      "value": 176436308.2048
+    },
+    {
+      "cusip": "74251V102",
+      "isin": "US74251V1026",
+      "name": "Principal Financial Group Inc.",
+      "percent": 0.043227,
+      "share": 2689802,
+      "symbol": "PFG",
+      "value": 174096336.16619998
+    },
+    {
+      "cusip": "45167R104",
+      "isin": "US45167R1041",
+      "name": "IDEX Corporation",
+      "percent": 0.043031,
+      "share": 805242,
+      "symbol": "IEX",
+      "value": 173306948.0086
+    },
+    {
+      "cusip": "00130H105",
+      "isin": "US00130H1059",
+      "name": "AES Corporation",
+      "percent": 0.042633,
+      "share": 7086182,
+      "symbol": "AES",
+      "value": 171704006.7498
+    },
+    {
+      "cusip": "883203101",
+      "isin": "US8832031012",
+      "name": "Textron Inc.",
+      "percent": 0.042219,
+      "share": 2407344,
+      "symbol": "TXT",
+      "value": 170036625.64139998
+    },
+    {
+      "cusip": "101121101",
+      "isin": "US1011211018",
+      "name": "Boston Properties Inc.",
+      "percent": 0.042036,
+      "share": 1504842,
+      "symbol": "BXP",
+      "value": 169299594.86159998
+    },
+    {
+      "cusip": "902653104",
+      "isin": "US9026531049",
+      "name": "UDR Inc.",
+      "percent": 0.041696,
+      "share": 3146690,
+      "symbol": "UDR",
+      "value": 167930248.0576
+    },
+    {
+      "cusip": "74762E102",
+      "isin": "US74762E1029",
+      "name": "Quanta Services Inc.",
+      "percent": 0.041653,
+      "share": 1468633,
+      "symbol": "PWR",
+      "value": 167757065.9618
+    },
+    {
+      "cusip": "205887102",
+      "isin": "US2058871029",
+      "name": "Conagra Brands Inc.",
+      "percent": 0.041604,
+      "share": 5095701,
+      "symbol": "CAG",
+      "value": 167559718.92240003
+    },
+    {
+      "cusip": "668771108",
+      "isin": "US6687711084",
+      "name": "NortonLifeLock Inc.",
+      "percent": 0.041196,
+      "share": 6173084,
+      "symbol": "NLOK",
+      "value": 165916502.7576
+    },
+    {
+      "cusip": "929740108",
+      "isin": "US9297401088",
+      "name": "Westinghouse Air Brake Technologies Corporation",
+      "percent": 0.041116,
+      "share": 1883990,
+      "symbol": "WAB",
+      "value": 165594303.50959998
+    },
+    {
+      "cusip": "681919106",
+      "isin": "US6819191064",
+      "name": "Omnicom Group Inc",
+      "percent": 0.041027,
+      "share": 2281464,
+      "symbol": "OMC",
+      "value": 165235856.84620002
+    },
+    {
+      "cusip": "14149Y108",
+      "isin": "US14149Y1082",
+      "name": "Cardinal Health Inc.",
+      "percent": 0.040726,
+      "share": 3080860,
+      "symbol": "CAH",
+      "value": 164023582.1756
+    },
+    {
+      "cusip": "487836108",
+      "isin": "US4878361082",
+      "name": "Kellogg Company",
+      "percent": 0.040642,
+      "share": 2675132,
+      "symbol": "K",
+      "value": 163685272.96519998
+    },
+    {
+      "cusip": "30034W106",
+      "isin": "US30034W1062",
+      "name": "Evergy Inc.",
+      "percent": 0.039856,
+      "share": 2409219,
+      "symbol": "EVRG",
+      "value": 160519665.3536
+    },
+    {
+      "cusip": "277432100",
+      "isin": "US2774321002",
+      "name": "Eastman Chemical Company",
+      "percent": 0.039711,
+      "share": 1441296,
+      "symbol": "EMN",
+      "value": 159935679.21660003
+    },
+    {
+      "cusip": "15189T107",
+      "isin": "US15189T1079",
+      "name": "CenterPoint Energy Inc.",
+      "percent": 0.039132,
+      "share": 6163928,
+      "symbol": "CNP",
+      "value": 157603762.1592
+    },
+    {
+      "cusip": "574599106",
+      "isin": "US5745991068",
+      "name": "Masco Corporation",
+      "percent": 0.039126,
+      "share": 2694488,
+      "symbol": "MAS",
+      "value": 157579597.2156
+    },
+    {
+      "cusip": "445658107",
+      "isin": "US4456581077",
+      "name": "J.B. Hunt Transport Services Inc.",
+      "percent": 0.039092,
+      "share": 885932,
+      "symbol": "JBHT",
+      "value": 157442662.5352
+    },
+    {
+      "cusip": "018802108",
+      "isin": "US0188021085",
+      "name": "Alliant Energy Corp",
+      "percent": 0.03898,
+      "share": 2651246,
+      "symbol": "LNT",
+      "value": 156991583.588
+    },
+    {
+      "cusip": "910047109",
+      "isin": "US9100471096",
+      "name": "United Airlines Holdings Inc.",
+      "percent": 0.038751,
+      "share": 3381573,
+      "symbol": "UAL",
+      "value": 156069288.2406
+    },
+    {
+      "cusip": "517834107",
+      "isin": "US5178341070",
+      "name": "Las Vegas Sands Corp.",
+      "percent": 0.038529,
+      "share": 3484905,
+      "symbol": "LVS",
+      "value": 155175185.3274
+    },
+    {
+      "cusip": "460690100",
+      "isin": "US4606901001",
+      "name": "Interpublic Group of Companies Inc.",
+      "percent": 0.037561,
+      "share": 4145664,
+      "symbol": "IPG",
+      "value": 151276574.42659998
+    },
+    {
+      "cusip": "695156109",
+      "isin": "US6951561090",
+      "name": "Packaging Corporation of America",
+      "percent": 0.037541,
+      "share": 1006340,
+      "symbol": "PKG",
+      "value": 151196024.6146
+    },
+    {
+      "cusip": "501889208",
+      "isin": "US5018892084",
+      "name": "LKQ Corporation",
+      "percent": 0.037024,
+      "share": 2960094,
+      "symbol": "LKQ",
+      "value": 149113811.9744
+    },
+    {
+      "cusip": "745867101",
+      "isin": "US7458671010",
+      "name": "PulteGroup Inc.",
+      "percent": 0.036596,
+      "share": 2821012,
+      "symbol": "PHM",
+      "value": 147390045.9976
+    },
+    {
+      "cusip": "45337C102",
+      "isin": "US45337C1027",
+      "name": "Incyte Corporation",
+      "percent": 0.036436,
+      "share": 1982221,
+      "symbol": "INCY",
+      "value": 146745647.50160003
+    },
+    {
+      "cusip": "46284V101",
+      "isin": "US46284V1017",
+      "name": "Iron Mountain Inc.",
+      "percent": 0.036434,
+      "share": 3059780,
+      "symbol": "IRM",
+      "value": 146737592.52040002
+    },
+    {
+      "cusip": "963320106",
+      "isin": "US9633201069",
+      "name": "Whirlpool Corporation",
+      "percent": 0.035632,
+      "share": 665916,
+      "symbol": "WHR",
+      "value": 143507545.0592
+    },
+    {
+      "cusip": "69370C100",
+      "isin": "US69370C1009",
+      "name": "PTC Inc.",
+      "percent": 0.035613,
+      "share": 1115244,
+      "symbol": "PTC",
+      "value": 143431022.7378
+    },
+    {
+      "cusip": "24906P109",
+      "isin": "US24906P1093",
+      "name": "DENTSPLY SIRONA Inc.",
+      "percent": 0.035542,
+      "share": 2323273,
+      "symbol": "XRAY",
+      "value": 143145070.90519997
+    },
+    {
+      "cusip": "96145D105",
+      "isin": "US96145D1054",
+      "name": "WestRock Company",
+      "percent": 0.035417,
+      "share": 2796413,
+      "symbol": "WRK",
+      "value": 142641634.5802
+    },
+    {
+      "cusip": "25278X109",
+      "isin": "US25278X1090",
+      "name": "Diamondback Energy Inc.",
+      "percent": 0.03537,
+      "share": 1918306,
+      "symbol": "FANG",
+      "value": 142452342.52199998
+    },
+    {
+      "cusip": "34964C106",
+      "isin": "US34964C1062",
+      "name": "Fortune Brands Home \u0026 Security Inc.",
+      "percent": 0.034809,
+      "share": 1470937,
+      "symbol": "FBHS",
+      "value": 140192920.2954
+    },
+    {
+      "cusip": "12503M108",
+      "isin": "US12503M1080",
+      "name": "Cboe Global Markets Inc",
+      "percent": 0.034537,
+      "share": 1137478,
+      "symbol": "CBOE",
+      "value": 139097442.8522
+    },
+    {
+      "cusip": "49446R109",
+      "isin": "US49446R1095",
+      "name": "Kimco Realty Corporation",
+      "percent": 0.034255,
+      "share": 6382859,
+      "symbol": "KIM",
+      "value": 137961690.50300002
+    },
+    {
+      "cusip": "832696405",
+      "isin": "US8326964058",
+      "name": "J.M. Smucker Company",
+      "percent": 0.034242,
+      "share": 1163132,
+      "symbol": "SJM",
+      "value": 137909333.1252
+    },
+    {
+      "cusip": "00751Y106",
+      "isin": "US00751Y1064",
+      "name": "Advance Auto Parts Inc.",
+      "percent": 0.034151,
+      "share": 694587,
+      "symbol": "AAP",
+      "value": 137542831.4806
+    },
+    {
+      "cusip": "525327102",
+      "isin": "US5253271028",
+      "name": "Leidos Holdings Inc.",
+      "percent": 0.034017,
+      "share": 1414969,
+      "symbol": "LDOS",
+      "value": 137003147.74019998
+    },
+    {
+      "cusip": "G0176J109",
+      "isin": "IE00BFRT3W74",
+      "name": "Allegion PLC",
+      "percent": 0.033897,
+      "share": 962314,
+      "symbol": "ALLE",
+      "value": 136519848.86819997
+    },
+    {
+      "cusip": "426281101",
+      "isin": "US4262811015",
+      "name": "Jack Henry \u0026 Associates Inc.",
+      "percent": 0.033579,
+      "share": 788800,
+      "symbol": "JKHY",
+      "value": 135239106.8574
+    },
+    {
+      "cusip": "115637209",
+      "isin": "US1156372096",
+      "name": "Brown-Forman Corporation Class B",
+      "percent": 0.033462,
+      "share": 1937942,
+      "symbol": "BF.B",
+      "value": 134767890.4572
+    },
+    {
+      "cusip": "418056107",
+      "isin": "US4180561072",
+      "name": "Hasbro Inc.",
+      "percent": 0.033413,
+      "share": 1355008,
+      "symbol": "HAS",
+      "value": 134570543.41779998
+    },
+    {
+      "cusip": "177376100",
+      "isin": "US1773761002",
+      "name": "Citrix Systems Inc.",
+      "percent": 0.033243,
+      "share": 1305279,
+      "symbol": "CTXS",
+      "value": 133885870.0158
+    },
+    {
+      "cusip": "G7S00T104",
+      "isin": "IE00BLS09M33",
+      "name": "Pentair plc",
+      "percent": 0.033162,
+      "share": 1762103,
+      "symbol": "PNR",
+      "value": 133559643.2772
+    },
+    {
+      "cusip": "707569109",
+      "isin": "US7075691094",
+      "name": "Penn National Gaming Inc.",
+      "percent": 0.032941,
+      "share": 1577904,
+      "symbol": "PENN",
+      "value": 132669567.8546
+    },
+    {
+      "cusip": "538034109",
+      "isin": "US5380341090",
+      "name": "Live Nation Entertainment Inc.",
+      "percent": 0.032856,
+      "share": 1522833,
+      "symbol": "LYV",
+      "value": 132327231.1536
+    },
+    {
+      "cusip": "049560105",
+      "isin": "US0495601058",
+      "name": "Atmos Energy Corporation",
+      "percent": 0.032826,
+      "share": 1387720,
+      "symbol": "ATO",
+      "value": 132206406.4356
+    },
+    {
+      "cusip": "02376R102",
+      "isin": "US02376R1023",
+      "name": "American Airlines Group Inc.",
+      "percent": 0.032731,
+      "share": 6810793,
+      "symbol": "AAL",
+      "value": 131823794.8286
+    },
+    {
+      "cusip": "302491303",
+      "isin": "US3024913036",
+      "name": "FMC Corporation",
+      "percent": 0.0323,
+      "share": 1372328,
+      "symbol": "FMC",
+      "value": 130087946.38
+    },
+    {
+      "cusip": "540424108",
+      "isin": "US5404241086",
+      "name": "Loews Corporation",
+      "percent": 0.0321,
+      "share": 2375291,
+      "symbol": "L",
+      "value": 129282448.25999998
+    },
+    {
+      "cusip": "443201108",
+      "isin": "US4432011082",
+      "name": "Howmet Aerospace Inc.",
+      "percent": 0.031852,
+      "share": 4140883,
+      "symbol": "HWM",
+      "value": 128283630.5912
+    },
+    {
+      "cusip": "913903100",
+      "isin": "US9139031002",
+      "name": "Universal Health Services Inc. Class B",
+      "percent": 0.031574,
+      "share": 825808,
+      "symbol": "UHS",
+      "value": 127163988.20439999
+    },
+    {
+      "cusip": "315616102",
+      "isin": "US3156161024",
+      "name": "F5 Networks Inc.",
+      "percent": 0.031524,
+      "share": 632954,
+      "symbol": "FFIV",
+      "value": 126962613.6744
+    },
+    {
+      "cusip": "833034101",
+      "isin": "US8330341012",
+      "name": "Snap-on Incorporated",
+      "percent": 0.031393,
+      "share": 575108,
+      "symbol": "SNA",
+      "value": 126435012.40579998
+    },
+    {
+      "cusip": null,
+      "isin": null,
+      "name": "Fox Corporation Class A",
+      "percent": 0.03139,
+      "share": 3471136,
+      "symbol": "FOXA",
+      "value": 126422929.934
+    },
+    {
+      "cusip": "534187109",
+      "isin": "US5341871094",
+      "name": "Lincoln National Corporation",
+      "percent": 0.031284,
+      "share": 1913496,
+      "symbol": "LNC",
+      "value": 125996015.93039998
+    },
+    {
+      "cusip": "440452100",
+      "isin": "US4404521001",
+      "name": "Hormel Foods Corporation",
+      "percent": 0.030968,
+      "share": 2980783,
+      "symbol": "HRL",
+      "value": 124723328.9008
+    },
+    {
+      "cusip": "12541W209",
+      "isin": "US12541W2098",
+      "name": "C.H. Robinson Worldwide Inc.",
+      "percent": 0.030901,
+      "share": 1419131,
+      "symbol": "CHRW",
+      "value": 124453487.03060001
+    },
+    {
+      "cusip": "550241103",
+      "isin": "US5502411037",
+      "name": "Lumen Technologies Inc.",
+      "percent": 0.030861,
+      "share": 10477601,
+      "symbol": "LUMN",
+      "value": 124292387.4066
+    },
+    {
+      "cusip": "770323103",
+      "isin": "US7703231032",
+      "name": "Robert Half International Inc.",
+      "percent": 0.030119,
+      "share": 1199769,
+      "symbol": "RHI",
+      "value": 121303989.38139999
+    },
+    {
+      "cusip": "44107P104",
+      "isin": "US44107P1049",
+      "name": "Host Hotels \u0026 Resorts Inc.",
+      "percent": 0.030018,
+      "share": 7484041,
+      "symbol": "HST",
+      "value": 120897212.8308
+    },
+    {
+      "cusip": "608190104",
+      "isin": "US6081901042",
+      "name": "Mohawk Industries Inc.",
+      "percent": 0.029581,
+      "share": 625521,
+      "symbol": "MHK",
+      "value": 119137199.4386
+    },
+    {
+      "cusip": "876030107",
+      "isin": "US8760301072",
+      "name": "Tapestry Inc.",
+      "percent": 0.02956,
+      "share": 2947953,
+      "symbol": "TPR",
+      "value": 119052622.136
+    },
+    {
+      "cusip": "25470M109",
+      "isin": "US25470M1099",
+      "name": "DISH Network Corporation Class A",
+      "percent": 0.029326,
+      "share": 2625022,
+      "symbol": "DISH",
+      "value": 118110189.33560002
+    },
+    {
+      "cusip": "983134107",
+      "isin": "US9831341071",
+      "name": "Wynn Resorts Limited",
+      "percent": 0.029098,
+      "share": 1116328,
+      "symbol": "WYNN",
+      "value": 117191921.4788
+    },
+    {
+      "cusip": "61945C103",
+      "isin": "US61945C1036",
+      "name": "Mosaic Company",
+      "percent": 0.028958,
+      "share": 3660409,
+      "symbol": "MOS",
+      "value": 116628072.7948
+    },
+    {
+      "cusip": "806407102",
+      "isin": "US8064071025",
+      "name": "Henry Schein Inc.",
+      "percent": 0.028887,
+      "share": 1493937,
+      "symbol": "HSIC",
+      "value": 116342120.96219999
+    },
+    {
+      "cusip": "629377508",
+      "isin": "US6293775085",
+      "name": "NRG Energy Inc.",
+      "percent": 0.028658,
+      "share": 2595566,
+      "symbol": "NRG",
+      "value": 115419825.61479999
+    },
+    {
+      "cusip": "758849103",
+      "isin": "US7588491032",
+      "name": "Regency Centers Corporation",
+      "percent": 0.028463,
+      "share": 1675414,
+      "symbol": "REG",
+      "value": 114634464.94779998
+    },
+    {
+      "cusip": "099724106",
+      "isin": "US0997241064",
+      "name": "BorgWarner Inc.",
+      "percent": 0.026866,
+      "share": 2535505,
+      "symbol": "BWA",
+      "value": 108202562.45960002
+    },
+    {
+      "cusip": "084423102",
+      "isin": "US0844231029",
+      "name": "W. R. Berkley Corporation",
+      "percent": 0.026823,
+      "share": 1486487,
+      "symbol": "WRB",
+      "value": 108029380.36379999
+    },
+    {
+      "cusip": "04621X108",
+      "isin": "US04621X1081",
+      "name": "Assurant Inc.",
+      "percent": 0.026683,
+      "share": 643496,
+      "symbol": "AIZ",
+      "value": 107465531.67979999
+    },
+    {
+      "cusip": "200340107",
+      "isin": "US2003401070",
+      "name": "Comerica Incorporated",
+      "percent": 0.026468,
+      "share": 1476302,
+      "symbol": "CMA",
+      "value": 106599621.2008
+    },
+    {
+      "cusip": "G3223R108",
+      "isin": "BMG3223R1088",
+      "name": "Everest Re Group Ltd.",
+      "percent": 0.026345,
+      "share": 424546,
+      "symbol": "RE",
+      "value": 106104239.85700001
+    },
+    {
+      "cusip": "125269100",
+      "isin": "US1252691001",
+      "name": "CF Industries Holdings Inc.",
+      "percent": 0.025792,
+      "share": 2270223,
+      "symbol": "CF",
+      "value": 103877037.55520001
+    },
+    {
+      "cusip": "831865209",
+      "isin": "US8318652091",
+      "name": "A. O. Smith Corporation",
+      "percent": 0.025395,
+      "share": 1435951,
+      "symbol": "AOS",
+      "value": 102278123.787
+    },
+    {
+      "cusip": "651229106",
+      "isin": "US6512291062",
+      "name": "Newell Brands Inc",
+      "percent": 0.025238,
+      "share": 4009536,
+      "symbol": "NWL",
+      "value": 101645807.76280001
+    },
+    {
+      "cusip": "65473P105",
+      "isin": "US65473P1057",
+      "name": "NiSource Inc",
+      "percent": 0.024943,
+      "share": 4100497,
+      "symbol": "NI",
+      "value": 100457698.0358
+    },
+    {
+      "cusip": "989701107",
+      "isin": "US9897011071",
+      "name": "Zions Bancorporation N.A.",
+      "percent": 0.024641,
+      "share": 1741553,
+      "symbol": "ZION",
+      "value": 99241395.8746
+    },
+    {
+      "cusip": "G491BT108",
+      "isin": "BMG491BT1088",
+      "name": "Invesco Ltd.",
+      "percent": 0.024317,
+      "share": 3994405,
+      "symbol": "IVZ",
+      "value": 97936488.92019999
+    },
+    {
+      "cusip": "48203R104",
+      "isin": "US48203R1041",
+      "name": "Juniper Networks Inc.",
+      "percent": 0.024238,
+      "share": 3481794,
+      "symbol": "JNPR",
+      "value": 97618317.16279998
+    },
+    {
+      "cusip": "23918K108",
+      "isin": "US23918K1088",
+      "name": "DaVita Inc.",
+      "percent": 0.023983,
+      "share": 744066,
+      "symbol": "DVA",
+      "value": 96591307.0598
+    },
+    {
+      "cusip": "23355L106",
+      "isin": "US23355L1061",
+      "name": "DXC Technology Co.",
+      "percent": 0.023913,
+      "share": 2700884,
+      "symbol": "DXC",
+      "value": 96309382.7178
+    },
+    {
+      "cusip": "565849106",
+      "isin": "US5658491064",
+      "name": "Marathon Oil Corporation",
+      "percent": 0.023864,
+      "share": 8374744,
+      "symbol": "MRO",
+      "value": 96112035.6784
+    },
+    {
+      "cusip": "G66721104",
+      "isin": "BMG667211046",
+      "name": "Norwegian Cruise Line Holdings Ltd.",
+      "percent": 0.023766,
+      "share": 3857157,
+      "symbol": "NCLH",
+      "value": 95717341.59959999
+    },
+    {
+      "cusip": "513272104",
+      "isin": "US5132721045",
+      "name": "Lamb Weston Holdings Inc.",
+      "percent": 0.023749,
+      "share": 1552651,
+      "symbol": "LW",
+      "value": 95648874.25940001
+    },
+    {
+      "cusip": "81211K100",
+      "isin": "US81211K1007",
+      "name": "Sealed Air Corporation",
+      "percent": 0.023723,
+      "share": 1613544,
+      "symbol": "SEE",
+      "value": 95544159.5038
+    },
+    {
+      "cusip": "68622V106",
+      "isin": "US68622V1061",
+      "name": "Organon \u0026 Co.",
+      "percent": 0.023532,
+      "share": 2683245,
+      "symbol": "OGN",
+      "value": 94774908.7992
+    },
+    {
+      "cusip": "37959E102",
+      "isin": "US37959E1029",
+      "name": "Globe Life Inc.",
+      "percent": 0.0231,
+      "share": 1008214,
+      "symbol": "GL",
+      "value": 93035032.86
+    },
+    {
+      "cusip": "959802109",
+      "isin": "US9598021098",
+      "name": "Western Union Company",
+      "percent": 0.023073,
+      "share": 4359166,
+      "symbol": "WU",
+      "value": 92926290.61379999
+    },
+    {
+      "cusip": "134429109",
+      "isin": "US1344291091",
+      "name": "Campbell Soup Company",
+      "percent": 0.022716,
+      "share": 2152908,
+      "symbol": "CPB",
+      "value": 91488476.46959999
+    },
+    {
+      "cusip": "65249B109",
+      "isin": "US65249B1098",
+      "name": "News Corporation Class A",
+      "percent": 0.022667,
+      "share": 4149285,
+      "symbol": "NWSA",
+      "value": 91291129.43020001
+    },
+    {
+      "cusip": "60871R209",
+      "isin": "US60871R2094",
+      "name": "Molson Coors Beverage Company Class B",
+      "percent": 0.022517,
+      "share": 1997100,
+      "symbol": "TAP",
+      "value": 90687005.8402
+    },
+    {
+      "cusip": "723484101",
+      "isin": "US7234841010",
+      "name": "Pinnacle West Capital Corporation",
+      "percent": 0.02229,
+      "share": 1195365,
+      "symbol": "PNW",
+      "value": 89772765.47399999
+    },
+    {
+      "cusip": "775711104",
+      "isin": "US7757111049",
+      "name": "Rollins Inc.",
+      "percent": 0.022287,
+      "share": 2348809,
+      "symbol": "ROL",
+      "value": 89760683.0022
+    },
+    {
+      "cusip": "354613101",
+      "isin": "US3546131018",
+      "name": "Franklin Resources Inc.",
+      "percent": 0.022242,
+      "share": 2894263,
+      "symbol": "BEN",
+      "value": 89579445.9252
+    },
+    {
+      "cusip": "313747206",
+      "isin": "US3137472060",
+      "name": "Federal Realty Investment Trust",
+      "percent": 0.022149,
+      "share": 737792,
+      "symbol": "FRT",
+      "value": 89204889.29939999
+    },
+    {
+      "cusip": "446413106",
+      "isin": "US4464131063",
+      "name": "Huntington Ingalls Industries Inc.",
+      "percent": 0.020952,
+      "share": 427354,
+      "symbol": "HII",
+      "value": 84383983.05119999
+    },
+    {
+      "cusip": "693656100",
+      "isin": "US6936561009",
+      "name": "PVH Corp.",
+      "percent": 0.020918,
+      "share": 754274,
+      "symbol": "PVH",
+      "value": 84247048.3708
+    },
+    {
+      "cusip": null,
+      "isin": null,
+      "name": "Discovery Inc. Class C",
+      "percent": 0.020322,
+      "share": 3079205,
+      "symbol": "DISCK",
+      "value": 81846663.9732
+    },
+    {
+      "cusip": "03743Q108",
+      "isin": "US03743Q1085",
+      "name": "APA Corp.",
+      "percent": 0.019264,
+      "share": 4008608,
+      "symbol": "APA",
+      "value": 77585578.9184
+    },
+    {
+      "cusip": "G6518L108",
+      "isin": "GB00BWFY5505",
+      "name": "Nielsen Holdings Plc",
+      "percent": 0.01925,
+      "share": 3795766,
+      "symbol": "NLSN",
+      "value": 77529194.05
+    },
+    {
+      "cusip": "011659109",
+      "isin": "US0116591092",
+      "name": "Alaska Air Group Inc.",
+      "percent": 0.018526,
+      "share": 1317592,
+      "symbol": "ALK",
+      "value": 74613290.8556
+    },
+    {
+      "cusip": "127097103",
+      "isin": "US1270971039",
+      "name": "Cabot Oil \u0026 Gas Corporation",
+      "percent": 0.018515,
+      "share": 4236747,
+      "symbol": "COG",
+      "value": 74568988.45899999
+    },
+    {
+      "cusip": "712704105",
+      "isin": "US7127041058",
+      "name": "People's United Financial Inc.",
+      "percent": 0.018075,
+      "share": 4514669,
+      "symbol": "PBCT",
+      "value": 72796892.595
+    },
+    {
+      "cusip": "929042109",
+      "isin": "US9290421091",
+      "name": "Vornado Realty Trust",
+      "percent": 0.017213,
+      "share": 1664730,
+      "symbol": "VNO",
+      "value": 69325195.6978
+    },
+    {
+      "cusip": "410345102",
+      "isin": "US4103451021",
+      "name": "Hanesbrands Inc.",
+      "percent": 0.017171,
+      "share": 3700015,
+      "symbol": "HBI",
+      "value": 69156041.09259999
+    },
+    {
+      "cusip": "44980X109",
+      "isin": "US44980X1090",
+      "name": "IPG Photonics Corporation",
+      "percent": 0.01647,
+      "share": 381176,
+      "symbol": "IPGP",
+      "value": 66332770.182
+    },
+    {
+      "cusip": "524660107",
+      "isin": "US5246601075",
+      "name": "Leggett \u0026 Platt Incorporated",
+      "percent": 0.01634,
+      "share": 1410787,
+      "symbol": "LEG",
+      "value": 65809196.40400001
+    },
+    {
+      "cusip": "G97822103",
+      "isin": "IE00BGH1M568",
+      "name": "Perrigo Co. Plc",
+      "percent": 0.014462,
+      "share": 1412754,
+      "symbol": "PRGO",
+      "value": 58245569.05719999
+    },
+    {
+      "cusip": "751212101",
+      "isin": "US7512121010",
+      "name": "Ralph Lauren Corporation Class A",
+      "percent": 0.014208,
+      "share": 511422,
+      "symbol": "RL",
+      "value": 57222586.444800004
+    },
+    {
+      "cusip": "91529Y106",
+      "isin": "US91529Y1064",
+      "name": "Unum Group",
+      "percent": 0.013954,
+      "share": 2161087,
+      "symbol": "UNM",
+      "value": 56199603.832399994
+    },
+    {
+      "cusip": null,
+      "isin": null,
+      "name": "Fox Corporation Class B",
+      "percent": 0.013653,
+      "share": 1629946,
+      "symbol": "FOX",
+      "value": 54987329.161800005
+    },
+    {
+      "cusip": "364760108",
+      "isin": "US3647601083",
+      "name": "Gap Inc.",
+      "percent": 0.013369,
+      "share": 2182860,
+      "symbol": "GPS",
+      "value": 53843521.83140001
+    },
+    {
+      "cusip": "62955J103",
+      "isin": "US62955J1034",
+      "name": "NOV Inc.",
+      "percent": 0.013248,
+      "share": 4119308,
+      "symbol": "NOV",
+      "value": 53356195.4688
+    },
+    {
+      "cusip": "25470F104",
+      "isin": "US25470F1049",
+      "name": "Discovery Inc. Class A",
+      "percent": 0.011817,
+      "share": 1717617,
+      "symbol": "DISCA",
+      "value": 47592856.4202
+    },
+    {
+      "cusip": "904311107",
+      "isin": "US9043111072",
+      "name": "Under Armour Inc. Class A",
+      "percent": 0.011167,
+      "share": 2005304,
+      "symbol": "UAA",
+      "value": 44974987.5302
+    },
+    {
+      "cusip": null,
+      "isin": null,
+      "name": "Under Armour Inc. Class C",
+      "percent": 0.010173,
+      "share": 2081610,
+      "symbol": "UA",
+      "value": 40971661.8738
+    },
+    {
+      "cusip": null,
+      "isin": null,
+      "name": "News Corporation Class B",
+      "percent": 0.006968,
+      "share": 1301954,
+      "symbol": "NWS",
+      "value": 28063554.5008
+    },
+    {
+      "cusip": null,
+      "isin": null,
+      "name": "U.S. Dollar",
+      "percent": 0.004316,
+      "share": 17541610,
+      "symbol": null,
+      "value": 17382649.429600004
+    }
+  ],
+  "numberOfHoldings": 506,
+  "symbol": "SPY"
+}
