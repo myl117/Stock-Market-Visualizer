@@ -1,18 +1,32 @@
 /**
  * This is the setup file required before any code can be run
- * It downloads historical $SPY from Yahoo Finance and saves it to /data
+ * It downloads historical $SPY from Polygon.io and saves it to /data as a CSV
 */
 
 
 import axios from 'axios';
 import fs from 'fs';
 
-const yahooFinanceURI: string = 'https://query1.finance.yahoo.com/v7/finance/download/SPY?period1=1630454400&period2=1659312000&interval=1d&events=history&includeAdjustedClose=true';
+const POLYGON_API_KEY = 'lyABCEyJn0f1W8gwmdKczDpw29Y5pdiQ';
+const polygonRequestURI: string = 'https://api.polygon.io/v2/aggs/ticker/SPY/range/1/day/2021-09-01/2022-08-25?adjusted=true&sort=asc&limit=50000&apiKey=' + POLYGON_API_KEY;
 
 const setup = async () => {
-  const { data } = await axios.get(yahooFinanceURI);
+  let dat: string = 'Date,Open';
+  const { data } = await axios.get(polygonRequestURI);
 
-  fs.writeFileSync(__dirname + '/data/historicalSPYData.csv', data);
+  for (let entry of data.results) {
+    // convert millis into yyyy-mm-dd format
+    const date = new Date(entry.t); // Date 2011-05-09T06:08:45.178Z
+    const year = date.getFullYear();
+    const month = ("0" + (date.getMonth() + 1)).slice(-2);
+    const day = ("0" + date.getDate()).slice(-2);
+
+
+    dat += `\n${year}-${month}-${day},${entry.o}`;
+  }
+
+  // write csv data to file
+  fs.writeFileSync(__dirname + '/data/historicalSPYData.csv', dat);
 }
 
 setup();

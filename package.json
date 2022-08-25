@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "npm run clean && npm run copy-files && tsc && node dist/setup.js",
+    "start": "npm run clean && npm run copy-files && tsc && node dist/index.js",
     "dev": "ts-node-dev ./src/index.ts",
     "clean": "rimraf dist/",
     "copy-files": "copyfiles -u 1 src/**/* dist/",

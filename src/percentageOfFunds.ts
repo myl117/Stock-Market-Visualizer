@@ -48,19 +48,12 @@ const percentageOfFund = (symbol: string, month: string): number => {
   return constituents[month][symbol];
 }
 
-// abstraction function which returns the price of a fund minus $META and $AAPL
-const fundPriceMinusAPPLMETA = (fundPrice: number, date: string): number => {
+// abstraction function which returns the percentage $META and $AAPL stocks in $SPY
+const APPLMETAholdingPercentage = (date: string): number => {
   // remove dd from date format, (yy-mm-dd > yy-mm) so we can use the percentageOfFund function
   const newDate = date.substring(0, date.lastIndexOf('-'));
 
-  const APPLPrice = (percentageOfFund('AAPL', newDate) / 100) * fundPrice;
-  const METAPrice = (percentageOfFund('META', newDate) / 100) * fundPrice;
-
-  return fundPrice - (APPLPrice + METAPrice);
+  return (percentageOfFund('AAPL', newDate) + percentageOfFund('META', newDate));
 }
 
-//console.log(abstractedHoldingsPrice(444.619995, '2022-07-15'));
-
-export { percentageOfFund, fundPriceMinusAPPLMETA };
-
-//console.log(percentageOfFund('FB', '2022-07'));
+export { percentageOfFund, APPLMETAholdingPercentage };
