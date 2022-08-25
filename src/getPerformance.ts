@@ -7,7 +7,7 @@
 
 
 import { csv2arr } from './helpers';
-import { APPLMETAholdingPercentage } from './percentageOfFunds';
+import { AAPLMETAholdingPercentage } from './percentageOfFunds';
 
 // store opening prices in global var
 const openingPrices: { date: string, openPrice: number }[] = csv2arr(__dirname + '/data/historicalSPYData.csv');
@@ -32,7 +32,7 @@ const historicalSPYData = (openingPrices: { date: string, openPrice: number }[])
 // this is the main function we need, it accepts 2 params: the initial investment price and a boolean indicating which version (filtered/unfiltered) version of the fund
 // returns time series {date, price}[] which can be easily imported into highcharts.js on the client side
 const getPerformance = (startingInvestment: number, filtered: boolean): number[][] => {
-  // arr used to store the performance of our initial invesment over a 12 month period
+  // arr used to store the performance of our initial investment over a 12 month period
   let performances: number[][] = [];
 
   const historicalSPYDataLocal: { date: string, percentageDiff: number }[] = historicalSPYData(openingPrices);
@@ -45,9 +45,9 @@ const getPerformance = (startingInvestment: number, filtered: boolean): number[]
     // calculate the returns on the investment by multiplying percentageDiff with out startingInvestment
     let investmentReturns: number = (((entry.percentageDiff) / 100) * startingInvestment);
 
-    // if the filtered arg is true, subtract percentage of $AAPL and $META holdings
+    // if the filtered arg is set to true, subtract percentage of $AAPL and $META holdings
     if (filtered) {
-      investmentReturns = investmentReturns - ((investmentReturns / 100) * APPLMETAholdingPercentage(entry.date));
+      investmentReturns = investmentReturns - ((investmentReturns / 100) * AAPLMETAholdingPercentage(entry.date));
     }
 
     // add our returns to our startingInvestment value

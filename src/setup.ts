@@ -1,5 +1,5 @@
 /**
- * This is the setup file required before any code can be run
+ * This setup file should be run to initialize the environment before any 'npm run start' can be executed
  * It downloads historical $SPY from Polygon.io and saves it to /data as a CSV
 */
 

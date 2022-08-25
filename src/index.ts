@@ -1,3 +1,10 @@
+/**
+ * This is the root file
+ * The /filtered and /unfiltered routes act as API wrappers around the getPerformance function.
+ * These routes are called by the ./web/chart.js file to plot data onto the highcharts.js chart
+*/
+
+
 import express, { Request, Response } from 'express';
 import { getPerformance } from './getPerformance';
 
