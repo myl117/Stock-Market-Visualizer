@@ -27,6 +27,8 @@ const setup = async () => {
 
   // write csv data to file
   fs.writeFileSync(__dirname + '/data/historicalSPYData.csv', dat);
+
+  console.log('setup complete.');
 }
 
 setup();
