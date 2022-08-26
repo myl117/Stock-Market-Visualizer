@@ -52,7 +52,7 @@ const percentageOfFund = (symbol: string, month: string): number => {
 // abstraction function which returns the percentage $META and $AAPL stocks in $SPY
 const AAPLMETAholdingPercentage = (date: string): number => {
   // remove dd from date format, (yy-mm-dd > yy-mm) so we can use the percentageOfFund function
-  const newDate = date.substring(0, date.lastIndexOf('-'));
+  const newDate: string = date.substring(0, date.lastIndexOf('-'));
 
   return (percentageOfFund('AAPL', newDate) + percentageOfFund('META', newDate));
 }

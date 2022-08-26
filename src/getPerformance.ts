@@ -16,12 +16,12 @@ const openingPrices: { date: string, openPrice: number }[] = csv2arr(__dirname +
 const historicalSPYData = (openingPrices: { date: string, openPrice: number }[]): { date: string, percentageDiff: number }[] => {
   let arr: { date: string, percentageDiff: number }[] = [];
   // store initial opening price
-  const initialOpeningPrice = openingPrices[0].openPrice;
+  const initialOpeningPrice: number = openingPrices[0].openPrice;
 
   // iterate over each entry in openingPrices array and calculate the percentage difference for each open price
   for (let entry of openingPrices) {
-    const openPrice = entry.openPrice;
-    const percentageDiff = (((openPrice - initialOpeningPrice) / initialOpeningPrice) * 100);
+    const openPrice: number = entry.openPrice;
+    const percentageDiff: number = (((openPrice - initialOpeningPrice) / initialOpeningPrice) * 100);
 
     arr.push({ date: entry.date, percentageDiff, });
   }
@@ -40,7 +40,7 @@ const getPerformance = (startingInvestment: number, filtered: boolean): number[]
   // iterate over each percentage in the historical data arr and multiply by our startingInvestment
   for (let entry of historicalSPYDataLocal) {
     // convert yyyy-mm-dd string to milliseconds so it can be imported into highcharts.js
-    const date = (new Date(entry.date)).getTime();
+    const date: number = (new Date(entry.date)).getTime();
 
     // calculate the returns on the investment by multiplying percentageDiff with out startingInvestment
     let investmentReturns: number = (((entry.percentageDiff) / 100) * startingInvestment);
