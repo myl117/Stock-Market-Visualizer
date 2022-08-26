@@ -28,6 +28,7 @@ app.get('/unfiltered', (req: Request, res: Response) => {
   res.json(getPerformance(parseInt(startingInvestment), false));
 });
 
+// Listen on port 3000
 app.listen(port, () => {
   console.log(`Server listening on port ${port}`)
 });

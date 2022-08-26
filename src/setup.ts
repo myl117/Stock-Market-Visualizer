@@ -16,7 +16,7 @@ const setup = async () => {
 
   for (let entry of data.results) {
     // convert millis into yyyy-mm-dd format
-    const date = new Date(entry.t); // Date 2011-05-09T06:08:45.178Z
+    const date = new Date(entry.t);
     const year = date.getFullYear();
     const month = ("0" + (date.getMonth() + 1)).slice(-2);
     const day = ("0" + date.getDate()).slice(-2);
