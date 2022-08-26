@@ -5,7 +5,7 @@
 1. Clone this repo
 2. Run ```npm install```
 3. To set up the project, run: ``` npm run setup```
-4. Finally, run ```npm run start```
+4. Finally, run ```npm run start``` and navigate to [localhost:3000](http://localhost:3000/)
 
 ## Tech Stack
 
