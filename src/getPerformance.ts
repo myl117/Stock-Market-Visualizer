@@ -1,5 +1,5 @@
 /**
- * This module creates a time series dataset from the raw Yahoo Finance data
+ * This module creates a time series dataset from the Polygon data CSV file
  * The time series obj format is as follows: {date, percentageDiff}
  * When the getPerformance filtered arg is set to true, we substract the percentage of $AAPL and $META holdings before recording the performance
  * The percentage difference is simply the difference of the first opening price compared to each opening price in the Yahoo Finance dataset
